@@ -1,0 +1,9 @@
+../src/reloj.c:24:6:funcion_simple	16	static
+../src/reloj.c:34:6:mde_modo	16	static
+../src/reloj.c:73:6:modo_CTcron	16	static
+../src/reloj.c:108:6:modo_CTtem	16	static
+../src/reloj.c:146:6:modo_crono	16	static
+../src/reloj.c:203:6:modo_tempo	16	static
+../src/reloj.c:260:9:mde_tempo_config	16	static
+../src/reloj.c:312:6:mili_timer	16	static
+../src/reloj.c:317:6:unmili_timer	8	static

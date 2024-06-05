@@ -1,0 +1,1757 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+                              ./src/cr_startup_lpc84x.o (__main)
+
+Discarded input sections
+
+ .group         0x00000000        0xc ./src/CounterTimer.o
+ .group         0x00000000        0xc ./src/CounterTimer.o
+ .group         0x00000000        0xc ./src/CounterTimer.o
+ .group         0x00000000        0xc ./src/CounterTimer.o
+ .group         0x00000000        0xc ./src/CounterTimer.o
+ .group         0x00000000        0xc ./src/CounterTimer.o
+ .group         0x00000000        0xc ./src/CounterTimer.o
+ .group         0x00000000        0xc ./src/CounterTimer.o
+ .group         0x00000000        0xc ./src/CounterTimer.o
+ .group         0x00000000        0xc ./src/CounterTimer.o
+ .group         0x00000000        0xc ./src/CounterTimer.o
+ .group         0x00000000        0xc ./src/CounterTimer.o
+ .group         0x00000000        0xc ./src/CounterTimer.o
+ .group         0x00000000        0xc ./src/CounterTimer.o
+ .group         0x00000000        0xc ./src/CounterTimer.o
+ .text          0x00000000        0x0 ./src/CounterTimer.o
+ .data          0x00000000        0x0 ./src/CounterTimer.o
+ .bss           0x00000000        0x0 ./src/CounterTimer.o
+ .text.flanco_ascendente
+                0x00000000       0x1c ./src/CounterTimer.o
+ .text.flanco_descendente
+                0x00000000       0x1c ./src/CounterTimer.o
+ .group         0x00000000        0xc ./src/Inicializacion.o
+ .group         0x00000000        0xc ./src/Inicializacion.o
+ .group         0x00000000        0xc ./src/Inicializacion.o
+ .group         0x00000000        0xc ./src/Inicializacion.o
+ .group         0x00000000        0xc ./src/Inicializacion.o
+ .group         0x00000000        0xc ./src/Inicializacion.o
+ .group         0x00000000        0xc ./src/Inicializacion.o
+ .group         0x00000000        0xc ./src/Inicializacion.o
+ .group         0x00000000        0xc ./src/Inicializacion.o
+ .group         0x00000000        0xc ./src/Inicializacion.o
+ .group         0x00000000        0xc ./src/Inicializacion.o
+ .group         0x00000000        0xc ./src/Inicializacion.o
+ .group         0x00000000        0xc ./src/Inicializacion.o
+ .group         0x00000000        0xc ./src/Inicializacion.o
+ .group         0x00000000        0xc ./src/Inicializacion.o
+ .text          0x00000000        0x0 ./src/Inicializacion.o
+ .data          0x00000000        0x0 ./src/Inicializacion.o
+ .bss           0x00000000        0x0 ./src/Inicializacion.o
+ .debug_macro   0x00000000      0xa66 ./src/Inicializacion.o
+ .debug_macro   0x00000000      0x320 ./src/Inicializacion.o
+ .debug_macro   0x00000000       0x3a ./src/Inicializacion.o
+ .debug_macro   0x00000000       0xee ./src/Inicializacion.o
+ .debug_macro   0x00000000       0x76 ./src/Inicializacion.o
+ .debug_macro   0x00000000      0x13f ./src/Inicializacion.o
+ .debug_macro   0x00000000       0x88 ./src/Inicializacion.o
+ .debug_macro   0x00000000       0x82 ./src/Inicializacion.o
+ .debug_macro   0x00000000       0x46 ./src/Inicializacion.o
+ .debug_macro   0x00000000       0x2e ./src/Inicializacion.o
+ .debug_macro   0x00000000       0x4c ./src/Inicializacion.o
+ .debug_macro   0x00000000       0x4c ./src/Inicializacion.o
+ .debug_macro   0x00000000       0x70 ./src/Inicializacion.o
+ .debug_macro   0x00000000       0x40 ./src/Inicializacion.o
+ .debug_macro   0x00000000       0x28 ./src/Inicializacion.o
+ .group         0x00000000        0xc ./src/LPC845_GPIO_Dr.o
+ .group         0x00000000        0xc ./src/LPC845_GPIO_Dr.o
+ .group         0x00000000        0xc ./src/LPC845_GPIO_Dr.o
+ .group         0x00000000        0xc ./src/LPC845_GPIO_Dr.o
+ .group         0x00000000        0xc ./src/LPC845_GPIO_Dr.o
+ .group         0x00000000        0xc ./src/LPC845_GPIO_Dr.o
+ .group         0x00000000        0xc ./src/LPC845_GPIO_Dr.o
+ .group         0x00000000        0xc ./src/LPC845_GPIO_Dr.o
+ .group         0x00000000        0xc ./src/LPC845_GPIO_Dr.o
+ .group         0x00000000        0xc ./src/LPC845_GPIO_Dr.o
+ .group         0x00000000        0xc ./src/LPC845_GPIO_Dr.o
+ .group         0x00000000        0xc ./src/LPC845_GPIO_Dr.o
+ .group         0x00000000        0xc ./src/LPC845_GPIO_Dr.o
+ .group         0x00000000        0xc ./src/LPC845_GPIO_Dr.o
+ .group         0x00000000        0xc ./src/LPC845_GPIO_Dr.o
+ .text          0x00000000        0x0 ./src/LPC845_GPIO_Dr.o
+ .data          0x00000000        0x0 ./src/LPC845_GPIO_Dr.o
+ .bss           0x00000000        0x0 ./src/LPC845_GPIO_Dr.o
+ .debug_macro   0x00000000      0xa66 ./src/LPC845_GPIO_Dr.o
+ .debug_macro   0x00000000      0x320 ./src/LPC845_GPIO_Dr.o
+ .debug_macro   0x00000000       0x3a ./src/LPC845_GPIO_Dr.o
+ .debug_macro   0x00000000       0xee ./src/LPC845_GPIO_Dr.o
+ .debug_macro   0x00000000       0x76 ./src/LPC845_GPIO_Dr.o
+ .debug_macro   0x00000000      0x13f ./src/LPC845_GPIO_Dr.o
+ .debug_macro   0x00000000       0x88 ./src/LPC845_GPIO_Dr.o
+ .debug_macro   0x00000000       0x82 ./src/LPC845_GPIO_Dr.o
+ .debug_macro   0x00000000       0x46 ./src/LPC845_GPIO_Dr.o
+ .debug_macro   0x00000000       0x2e ./src/LPC845_GPIO_Dr.o
+ .debug_macro   0x00000000       0x4c ./src/LPC845_GPIO_Dr.o
+ .debug_macro   0x00000000       0x4c ./src/LPC845_GPIO_Dr.o
+ .debug_macro   0x00000000       0x70 ./src/LPC845_GPIO_Dr.o
+ .debug_macro   0x00000000       0x40 ./src/LPC845_GPIO_Dr.o
+ .debug_macro   0x00000000       0x28 ./src/LPC845_GPIO_Dr.o
+ .group         0x00000000        0xc ./src/SysTick.o
+ .group         0x00000000        0xc ./src/SysTick.o
+ .group         0x00000000        0xc ./src/SysTick.o
+ .group         0x00000000        0xc ./src/SysTick.o
+ .group         0x00000000        0xc ./src/SysTick.o
+ .group         0x00000000        0xc ./src/SysTick.o
+ .group         0x00000000        0xc ./src/SysTick.o
+ .group         0x00000000        0xc ./src/SysTick.o
+ .group         0x00000000        0xc ./src/SysTick.o
+ .group         0x00000000        0xc ./src/SysTick.o
+ .group         0x00000000        0xc ./src/SysTick.o
+ .group         0x00000000        0xc ./src/SysTick.o
+ .group         0x00000000        0xc ./src/SysTick.o
+ .group         0x00000000        0xc ./src/SysTick.o
+ .group         0x00000000        0xc ./src/SysTick.o
+ .text          0x00000000        0x0 ./src/SysTick.o
+ .data          0x00000000        0x0 ./src/SysTick.o
+ .bss           0x00000000        0x0 ./src/SysTick.o
+ .debug_macro   0x00000000      0xa66 ./src/SysTick.o
+ .debug_macro   0x00000000      0x320 ./src/SysTick.o
+ .debug_macro   0x00000000       0x3a ./src/SysTick.o
+ .debug_macro   0x00000000       0xee ./src/SysTick.o
+ .debug_macro   0x00000000       0x76 ./src/SysTick.o
+ .debug_macro   0x00000000      0x13f ./src/SysTick.o
+ .debug_macro   0x00000000       0x88 ./src/SysTick.o
+ .debug_macro   0x00000000       0x82 ./src/SysTick.o
+ .debug_macro   0x00000000       0x46 ./src/SysTick.o
+ .debug_macro   0x00000000       0x2e ./src/SysTick.o
+ .debug_macro   0x00000000       0x4c ./src/SysTick.o
+ .debug_macro   0x00000000       0x4c ./src/SysTick.o
+ .debug_macro   0x00000000       0x70 ./src/SysTick.o
+ .debug_macro   0x00000000       0x40 ./src/SysTick.o
+ .debug_macro   0x00000000       0x28 ./src/SysTick.o
+ .text          0x00000000        0x0 ./src/aeabi_romdiv_patch.o
+ .data          0x00000000        0x0 ./src/aeabi_romdiv_patch.o
+ .bss           0x00000000        0x0 ./src/aeabi_romdiv_patch.o
+ .group         0x00000000        0xc ./src/cr_startup_lpc84x.o
+ .text          0x00000000        0x0 ./src/cr_startup_lpc84x.o
+ .data          0x00000000        0x0 ./src/cr_startup_lpc84x.o
+ .bss           0x00000000        0x0 ./src/cr_startup_lpc84x.o
+ .debug_macro   0x00000000      0xa66 ./src/cr_startup_lpc84x.o
+ .group         0x00000000        0xc ./src/crp.o
+ .group         0x00000000        0xc ./src/crp.o
+ .text          0x00000000        0x0 ./src/crp.o
+ .data          0x00000000        0x0 ./src/crp.o
+ .bss           0x00000000        0x0 ./src/crp.o
+ .debug_macro   0x00000000      0xa66 ./src/crp.o
+ .group         0x00000000        0xc ./src/display.o
+ .group         0x00000000        0xc ./src/display.o
+ .group         0x00000000        0xc ./src/display.o
+ .group         0x00000000        0xc ./src/display.o
+ .group         0x00000000        0xc ./src/display.o
+ .group         0x00000000        0xc ./src/display.o
+ .group         0x00000000        0xc ./src/display.o
+ .group         0x00000000        0xc ./src/display.o
+ .group         0x00000000        0xc ./src/display.o
+ .group         0x00000000        0xc ./src/display.o
+ .group         0x00000000        0xc ./src/display.o
+ .group         0x00000000        0xc ./src/display.o
+ .group         0x00000000        0xc ./src/display.o
+ .group         0x00000000        0xc ./src/display.o
+ .group         0x00000000        0xc ./src/display.o
+ .text          0x00000000        0x0 ./src/display.o
+ .data          0x00000000        0x0 ./src/display.o
+ .bss           0x00000000        0x0 ./src/display.o
+ .debug_macro   0x00000000      0xa66 ./src/display.o
+ .debug_macro   0x00000000      0x320 ./src/display.o
+ .debug_macro   0x00000000       0x3a ./src/display.o
+ .debug_macro   0x00000000       0xee ./src/display.o
+ .debug_macro   0x00000000       0x76 ./src/display.o
+ .debug_macro   0x00000000      0x13f ./src/display.o
+ .debug_macro   0x00000000       0x88 ./src/display.o
+ .debug_macro   0x00000000       0x82 ./src/display.o
+ .debug_macro   0x00000000       0x46 ./src/display.o
+ .debug_macro   0x00000000       0x2e ./src/display.o
+ .debug_macro   0x00000000       0x4c ./src/display.o
+ .debug_macro   0x00000000       0x4c ./src/display.o
+ .debug_macro   0x00000000       0x70 ./src/display.o
+ .debug_macro   0x00000000       0x40 ./src/display.o
+ .debug_macro   0x00000000       0x28 ./src/display.o
+ .group         0x00000000        0xc ./src/display_lcd.o
+ .group         0x00000000        0xc ./src/display_lcd.o
+ .group         0x00000000        0xc ./src/display_lcd.o
+ .group         0x00000000        0xc ./src/display_lcd.o
+ .group         0x00000000        0xc ./src/display_lcd.o
+ .group         0x00000000        0xc ./src/display_lcd.o
+ .group         0x00000000        0xc ./src/display_lcd.o
+ .group         0x00000000        0xc ./src/display_lcd.o
+ .group         0x00000000        0xc ./src/display_lcd.o
+ .group         0x00000000        0xc ./src/display_lcd.o
+ .group         0x00000000        0xc ./src/display_lcd.o
+ .group         0x00000000        0xc ./src/display_lcd.o
+ .group         0x00000000        0xc ./src/display_lcd.o
+ .group         0x00000000        0xc ./src/display_lcd.o
+ .group         0x00000000        0xc ./src/display_lcd.o
+ .text          0x00000000        0x0 ./src/display_lcd.o
+ .data          0x00000000        0x0 ./src/display_lcd.o
+ .bss           0x00000000        0x0 ./src/display_lcd.o
+ .debug_macro   0x00000000      0xa66 ./src/display_lcd.o
+ .debug_macro   0x00000000      0x320 ./src/display_lcd.o
+ .debug_macro   0x00000000       0x3a ./src/display_lcd.o
+ .debug_macro   0x00000000       0xee ./src/display_lcd.o
+ .debug_macro   0x00000000       0x76 ./src/display_lcd.o
+ .debug_macro   0x00000000      0x13f ./src/display_lcd.o
+ .debug_macro   0x00000000       0x88 ./src/display_lcd.o
+ .debug_macro   0x00000000       0x82 ./src/display_lcd.o
+ .debug_macro   0x00000000       0x46 ./src/display_lcd.o
+ .debug_macro   0x00000000       0x2e ./src/display_lcd.o
+ .debug_macro   0x00000000       0x4c ./src/display_lcd.o
+ .debug_macro   0x00000000       0x4c ./src/display_lcd.o
+ .debug_macro   0x00000000       0x70 ./src/display_lcd.o
+ .debug_macro   0x00000000       0x40 ./src/display_lcd.o
+ .debug_macro   0x00000000       0x28 ./src/display_lcd.o
+ .group         0x00000000        0xc ./src/funciones.o
+ .group         0x00000000        0xc ./src/funciones.o
+ .group         0x00000000        0xc ./src/funciones.o
+ .group         0x00000000        0xc ./src/funciones.o
+ .group         0x00000000        0xc ./src/funciones.o
+ .group         0x00000000        0xc ./src/funciones.o
+ .group         0x00000000        0xc ./src/funciones.o
+ .group         0x00000000        0xc ./src/funciones.o
+ .group         0x00000000        0xc ./src/funciones.o
+ .group         0x00000000        0xc ./src/funciones.o
+ .group         0x00000000        0xc ./src/funciones.o
+ .group         0x00000000        0xc ./src/funciones.o
+ .group         0x00000000        0xc ./src/funciones.o
+ .group         0x00000000        0xc ./src/funciones.o
+ .group         0x00000000        0xc ./src/funciones.o
+ .text          0x00000000        0x0 ./src/funciones.o
+ .data          0x00000000        0x0 ./src/funciones.o
+ .bss           0x00000000        0x0 ./src/funciones.o
+ .text.buzzer_on
+                0x00000000       0x14 ./src/funciones.o
+ .text.buzzer_off
+                0x00000000       0x14 ./src/funciones.o
+ .text.rojo_on  0x00000000       0x14 ./src/funciones.o
+ .text.rojo_off
+                0x00000000       0x14 ./src/funciones.o
+ .text.verde_off
+                0x00000000       0x14 ./src/funciones.o
+ .text.azul_on  0x00000000       0x14 ./src/funciones.o
+ .text.azul_off
+                0x00000000       0x14 ./src/funciones.o
+ .text.boton_usr
+                0x00000000       0x16 ./src/funciones.o
+ .text.pin_on   0x00000000       0x1e ./src/funciones.o
+ .text.pin_off  0x00000000       0x1e ./src/funciones.o
+ .debug_macro   0x00000000      0xa66 ./src/funciones.o
+ .debug_macro   0x00000000      0x320 ./src/funciones.o
+ .debug_macro   0x00000000       0x3a ./src/funciones.o
+ .debug_macro   0x00000000       0xee ./src/funciones.o
+ .debug_macro   0x00000000       0x76 ./src/funciones.o
+ .debug_macro   0x00000000      0x13f ./src/funciones.o
+ .debug_macro   0x00000000       0x88 ./src/funciones.o
+ .debug_macro   0x00000000       0x82 ./src/funciones.o
+ .debug_macro   0x00000000       0x46 ./src/funciones.o
+ .debug_macro   0x00000000       0x2e ./src/funciones.o
+ .debug_macro   0x00000000       0x4c ./src/funciones.o
+ .debug_macro   0x00000000       0x4c ./src/funciones.o
+ .debug_macro   0x00000000       0x70 ./src/funciones.o
+ .debug_macro   0x00000000       0x40 ./src/funciones.o
+ .debug_macro   0x00000000       0x28 ./src/funciones.o
+ .group         0x00000000        0xc ./src/lcd.o
+ .group         0x00000000        0xc ./src/lcd.o
+ .group         0x00000000        0xc ./src/lcd.o
+ .group         0x00000000        0xc ./src/lcd.o
+ .group         0x00000000        0xc ./src/lcd.o
+ .group         0x00000000        0xc ./src/lcd.o
+ .group         0x00000000        0xc ./src/lcd.o
+ .group         0x00000000        0xc ./src/lcd.o
+ .group         0x00000000        0xc ./src/lcd.o
+ .group         0x00000000        0xc ./src/lcd.o
+ .group         0x00000000        0xc ./src/lcd.o
+ .group         0x00000000        0xc ./src/lcd.o
+ .group         0x00000000        0xc ./src/lcd.o
+ .group         0x00000000        0xc ./src/lcd.o
+ .group         0x00000000        0xc ./src/lcd.o
+ .text          0x00000000        0x0 ./src/lcd.o
+ .data          0x00000000        0x0 ./src/lcd.o
+ .bss           0x00000000        0x0 ./src/lcd.o
+ .debug_info    0x00000000       0x4c ./src/lcd.o
+ .debug_abbrev  0x00000000       0x29 ./src/lcd.o
+ .debug_aranges
+                0x00000000       0x18 ./src/lcd.o
+ .debug_macro   0x00000000       0xb7 ./src/lcd.o
+ .debug_macro   0x00000000      0xa66 ./src/lcd.o
+ .debug_macro   0x00000000      0x320 ./src/lcd.o
+ .debug_macro   0x00000000       0x3a ./src/lcd.o
+ .debug_macro   0x00000000       0xee ./src/lcd.o
+ .debug_macro   0x00000000       0x76 ./src/lcd.o
+ .debug_macro   0x00000000      0x13f ./src/lcd.o
+ .debug_macro   0x00000000       0x88 ./src/lcd.o
+ .debug_macro   0x00000000       0x82 ./src/lcd.o
+ .debug_macro   0x00000000       0x46 ./src/lcd.o
+ .debug_macro   0x00000000       0x2e ./src/lcd.o
+ .debug_macro   0x00000000       0x4c ./src/lcd.o
+ .debug_macro   0x00000000       0x4c ./src/lcd.o
+ .debug_macro   0x00000000       0x70 ./src/lcd.o
+ .debug_macro   0x00000000       0x40 ./src/lcd.o
+ .debug_macro   0x00000000       0x28 ./src/lcd.o
+ .debug_line    0x00000000      0x17a ./src/lcd.o
+ .debug_str     0x00000000     0x5090 ./src/lcd.o
+ .comment       0x00000000       0x4a ./src/lcd.o
+ .ARM.attributes
+                0x00000000       0x2c ./src/lcd.o
+ .group         0x00000000        0xc ./src/maquinas.o
+ .group         0x00000000        0xc ./src/maquinas.o
+ .group         0x00000000        0xc ./src/maquinas.o
+ .group         0x00000000        0xc ./src/maquinas.o
+ .group         0x00000000        0xc ./src/maquinas.o
+ .group         0x00000000        0xc ./src/maquinas.o
+ .group         0x00000000        0xc ./src/maquinas.o
+ .group         0x00000000        0xc ./src/maquinas.o
+ .group         0x00000000        0xc ./src/maquinas.o
+ .group         0x00000000        0xc ./src/maquinas.o
+ .group         0x00000000        0xc ./src/maquinas.o
+ .group         0x00000000        0xc ./src/maquinas.o
+ .group         0x00000000        0xc ./src/maquinas.o
+ .group         0x00000000        0xc ./src/maquinas.o
+ .group         0x00000000        0xc ./src/maquinas.o
+ .text          0x00000000        0x0 ./src/maquinas.o
+ .data          0x00000000        0x0 ./src/maquinas.o
+ .bss           0x00000000        0x0 ./src/maquinas.o
+ .bss.timer_02dec_out
+                0x00000000        0x1 ./src/maquinas.o
+ .bss.timer_1seg_out
+                0x00000000        0x1 ./src/maquinas.o
+ .bss.timer_1dec_out
+                0x00000000        0x1 ./src/maquinas.o
+ .text.inicializar_patas
+                0x00000000       0x96 ./src/maquinas.o
+ .text.mde_maquina1
+                0x00000000       0xf8 ./src/maquinas.o
+ .text.mde_maquina2
+                0x00000000       0xd0 ./src/maquinas.o
+ .text.mde_maquina3
+                0x00000000       0x68 ./src/maquinas.o
+ .text.mde_reloj
+                0x00000000       0xf0 ./src/maquinas.o
+ .text.timer_1seg
+                0x00000000       0x24 ./src/maquinas.o
+ .text.timer_1seg_handler
+                0x00000000       0x14 ./src/maquinas.o
+ .text.timer_1dec
+                0x00000000       0x24 ./src/maquinas.o
+ .text.timer_1dec_handler
+                0x00000000       0x14 ./src/maquinas.o
+ .text.mde_ledparpadeante_rojo
+                0x00000000       0x7c ./src/maquinas.o
+ .text.timer_02dec
+                0x00000000       0x24 ./src/maquinas.o
+ .text.timer_02dec_handler
+                0x00000000       0x14 ./src/maquinas.o
+ .bss.est.9     0x00000000        0x1 ./src/maquinas.o
+ .bss.est.8     0x00000000        0x1 ./src/maquinas.o
+ .data.est.7    0x00000000        0x1 ./src/maquinas.o
+ .bss.tecla.5   0x00000000        0x1 ./src/maquinas.o
+ .bss.segundoss.4
+                0x00000000        0x1 ./src/maquinas.o
+ .bss.decimas.3
+                0x00000000        0x1 ./src/maquinas.o
+ .bss.est.2     0x00000000        0x1 ./src/maquinas.o
+ .data.segs_max.1
+                0x00000000        0x1 ./src/maquinas.o
+ .bss.est.0     0x00000000        0x1 ./src/maquinas.o
+ .debug_macro   0x00000000      0xa66 ./src/maquinas.o
+ .debug_macro   0x00000000      0x320 ./src/maquinas.o
+ .debug_macro   0x00000000       0x3a ./src/maquinas.o
+ .debug_macro   0x00000000       0xee ./src/maquinas.o
+ .debug_macro   0x00000000       0x76 ./src/maquinas.o
+ .debug_macro   0x00000000      0x13f ./src/maquinas.o
+ .debug_macro   0x00000000       0x88 ./src/maquinas.o
+ .debug_macro   0x00000000       0x82 ./src/maquinas.o
+ .debug_macro   0x00000000       0x46 ./src/maquinas.o
+ .debug_macro   0x00000000       0x2e ./src/maquinas.o
+ .debug_macro   0x00000000       0x4c ./src/maquinas.o
+ .debug_macro   0x00000000       0x4c ./src/maquinas.o
+ .debug_macro   0x00000000       0x70 ./src/maquinas.o
+ .debug_macro   0x00000000       0x40 ./src/maquinas.o
+ .debug_macro   0x00000000       0x28 ./src/maquinas.o
+ .group         0x00000000        0xc ./src/mtb.o
+ .group         0x00000000        0xc ./src/mtb.o
+ .group         0x00000000        0xc ./src/mtb.o
+ .text          0x00000000        0x0 ./src/mtb.o
+ .data          0x00000000        0x0 ./src/mtb.o
+ .bss           0x00000000        0x0 ./src/mtb.o
+ .debug_macro   0x00000000      0xa66 ./src/mtb.o
+ .group         0x00000000        0xc ./src/oscilador.o
+ .group         0x00000000        0xc ./src/oscilador.o
+ .group         0x00000000        0xc ./src/oscilador.o
+ .group         0x00000000        0xc ./src/oscilador.o
+ .group         0x00000000        0xc ./src/oscilador.o
+ .group         0x00000000        0xc ./src/oscilador.o
+ .group         0x00000000        0xc ./src/oscilador.o
+ .group         0x00000000        0xc ./src/oscilador.o
+ .group         0x00000000        0xc ./src/oscilador.o
+ .group         0x00000000        0xc ./src/oscilador.o
+ .group         0x00000000        0xc ./src/oscilador.o
+ .group         0x00000000        0xc ./src/oscilador.o
+ .group         0x00000000        0xc ./src/oscilador.o
+ .group         0x00000000        0xc ./src/oscilador.o
+ .group         0x00000000        0xc ./src/oscilador.o
+ .text          0x00000000        0x0 ./src/oscilador.o
+ .data          0x00000000        0x0 ./src/oscilador.o
+ .bss           0x00000000        0x0 ./src/oscilador.o
+ .debug_macro   0x00000000      0xa66 ./src/oscilador.o
+ .debug_macro   0x00000000      0x320 ./src/oscilador.o
+ .debug_macro   0x00000000       0x3a ./src/oscilador.o
+ .debug_macro   0x00000000       0xee ./src/oscilador.o
+ .debug_macro   0x00000000       0x76 ./src/oscilador.o
+ .debug_macro   0x00000000      0x13f ./src/oscilador.o
+ .debug_macro   0x00000000       0x88 ./src/oscilador.o
+ .debug_macro   0x00000000       0x82 ./src/oscilador.o
+ .debug_macro   0x00000000       0x46 ./src/oscilador.o
+ .debug_macro   0x00000000       0x2e ./src/oscilador.o
+ .debug_macro   0x00000000       0x4c ./src/oscilador.o
+ .debug_macro   0x00000000       0x4c ./src/oscilador.o
+ .debug_macro   0x00000000       0x70 ./src/oscilador.o
+ .debug_macro   0x00000000       0x40 ./src/oscilador.o
+ .debug_macro   0x00000000       0x28 ./src/oscilador.o
+ .group         0x00000000        0xc ./src/propiamente.o
+ .group         0x00000000        0xc ./src/propiamente.o
+ .group         0x00000000        0xc ./src/propiamente.o
+ .group         0x00000000        0xc ./src/propiamente.o
+ .group         0x00000000        0xc ./src/propiamente.o
+ .group         0x00000000        0xc ./src/propiamente.o
+ .group         0x00000000        0xc ./src/propiamente.o
+ .group         0x00000000        0xc ./src/propiamente.o
+ .group         0x00000000        0xc ./src/propiamente.o
+ .group         0x00000000        0xc ./src/propiamente.o
+ .group         0x00000000        0xc ./src/propiamente.o
+ .group         0x00000000        0xc ./src/propiamente.o
+ .group         0x00000000        0xc ./src/propiamente.o
+ .group         0x00000000        0xc ./src/propiamente.o
+ .group         0x00000000        0xc ./src/propiamente.o
+ .group         0x00000000        0xc ./src/propiamente.o
+ .text          0x00000000        0x0 ./src/propiamente.o
+ .data          0x00000000        0x0 ./src/propiamente.o
+ .bss           0x00000000        0x0 ./src/propiamente.o
+ .debug_macro   0x00000000      0xa66 ./src/propiamente.o
+ .debug_macro   0x00000000       0x82 ./src/propiamente.o
+ .debug_macro   0x00000000      0x320 ./src/propiamente.o
+ .debug_macro   0x00000000       0x3a ./src/propiamente.o
+ .debug_macro   0x00000000       0xee ./src/propiamente.o
+ .debug_macro   0x00000000       0x76 ./src/propiamente.o
+ .debug_macro   0x00000000      0x13f ./src/propiamente.o
+ .debug_macro   0x00000000       0x88 ./src/propiamente.o
+ .debug_macro   0x00000000       0x82 ./src/propiamente.o
+ .debug_macro   0x00000000       0x46 ./src/propiamente.o
+ .debug_macro   0x00000000       0x2e ./src/propiamente.o
+ .debug_macro   0x00000000       0x4c ./src/propiamente.o
+ .debug_macro   0x00000000       0x4c ./src/propiamente.o
+ .debug_macro   0x00000000       0x70 ./src/propiamente.o
+ .debug_macro   0x00000000       0x40 ./src/propiamente.o
+ .debug_macro   0x00000000       0x28 ./src/propiamente.o
+ .group         0x00000000        0xc ./src/reloj.o
+ .group         0x00000000        0xc ./src/reloj.o
+ .group         0x00000000        0xc ./src/reloj.o
+ .group         0x00000000        0xc ./src/reloj.o
+ .group         0x00000000        0xc ./src/reloj.o
+ .group         0x00000000        0xc ./src/reloj.o
+ .group         0x00000000        0xc ./src/reloj.o
+ .group         0x00000000        0xc ./src/reloj.o
+ .group         0x00000000        0xc ./src/reloj.o
+ .group         0x00000000        0xc ./src/reloj.o
+ .group         0x00000000        0xc ./src/reloj.o
+ .group         0x00000000        0xc ./src/reloj.o
+ .group         0x00000000        0xc ./src/reloj.o
+ .group         0x00000000        0xc ./src/reloj.o
+ .group         0x00000000        0xc ./src/reloj.o
+ .text          0x00000000        0x0 ./src/reloj.o
+ .data          0x00000000        0x0 ./src/reloj.o
+ .bss           0x00000000        0x0 ./src/reloj.o
+ .bss.min       0x00000000        0x2 ./src/reloj.o
+ .bss.segg      0x00000000        0x1 ./src/reloj.o
+ .bss.cero1     0x00000000        0x1 ./src/reloj.o
+ .bss.cero2     0x00000000        0x1 ./src/reloj.o
+ .bss.salir     0x00000000        0x1 ./src/reloj.o
+ .bss.tiempo    0x00000000        0x4 ./src/reloj.o
+ .data.milis    0x00000000        0x4 ./src/reloj.o
+ .text.funcion_simple
+                0x00000000       0x30 ./src/reloj.o
+ .text.mde_modo
+                0x00000000       0xb4 ./src/reloj.o
+ .rodata.mde_modo
+                0x00000000       0x28 ./src/reloj.o
+ .text.modo_CTcron
+                0x00000000       0xe0 ./src/reloj.o
+ .text.modo_CTtem
+                0x00000000       0xf4 ./src/reloj.o
+ .text.modo_crono
+                0x00000000      0x13c ./src/reloj.o
+ .text.modo_tempo
+                0x00000000      0x134 ./src/reloj.o
+ .text.mde_tempo_config
+                0x00000000      0x198 ./src/reloj.o
+ .text.mili_timer
+                0x00000000       0x20 ./src/reloj.o
+ .text.unmili_timer
+                0x00000000       0x1c ./src/reloj.o
+ .bss.est.4     0x00000000        0x1 ./src/reloj.o
+ .data.est.3    0x00000000        0x1 ./src/reloj.o
+ .data.est.2    0x00000000        0x1 ./src/reloj.o
+ .bss.est.1     0x00000000        0x1 ./src/reloj.o
+ .data.est.0    0x00000000        0x1 ./src/reloj.o
+ .debug_info    0x00000000      0x42f ./src/reloj.o
+ .debug_abbrev  0x00000000      0x1ca ./src/reloj.o
+ .debug_aranges
+                0x00000000       0x60 ./src/reloj.o
+ .debug_ranges  0x00000000       0x50 ./src/reloj.o
+ .debug_macro   0x00000000       0xc3 ./src/reloj.o
+ .debug_macro   0x00000000      0xa66 ./src/reloj.o
+ .debug_macro   0x00000000      0x320 ./src/reloj.o
+ .debug_macro   0x00000000       0x3a ./src/reloj.o
+ .debug_macro   0x00000000       0xee ./src/reloj.o
+ .debug_macro   0x00000000       0x76 ./src/reloj.o
+ .debug_macro   0x00000000      0x13f ./src/reloj.o
+ .debug_macro   0x00000000       0x88 ./src/reloj.o
+ .debug_macro   0x00000000       0x82 ./src/reloj.o
+ .debug_macro   0x00000000       0x46 ./src/reloj.o
+ .debug_macro   0x00000000       0x2e ./src/reloj.o
+ .debug_macro   0x00000000       0x4c ./src/reloj.o
+ .debug_macro   0x00000000       0x4c ./src/reloj.o
+ .debug_macro   0x00000000       0x70 ./src/reloj.o
+ .debug_macro   0x00000000       0x40 ./src/reloj.o
+ .debug_macro   0x00000000       0x28 ./src/reloj.o
+ .debug_line    0x00000000      0x4ca ./src/reloj.o
+ .debug_str     0x00000000     0x519d ./src/reloj.o
+ .comment       0x00000000       0x4a ./src/reloj.o
+ .debug_frame   0x00000000      0x12c ./src/reloj.o
+ .ARM.attributes
+                0x00000000       0x2c ./src/reloj.o
+ .group         0x00000000        0xc ./src/sensor_dht11.o
+ .group         0x00000000        0xc ./src/sensor_dht11.o
+ .group         0x00000000        0xc ./src/sensor_dht11.o
+ .group         0x00000000        0xc ./src/sensor_dht11.o
+ .group         0x00000000        0xc ./src/sensor_dht11.o
+ .group         0x00000000        0xc ./src/sensor_dht11.o
+ .group         0x00000000        0xc ./src/sensor_dht11.o
+ .group         0x00000000        0xc ./src/sensor_dht11.o
+ .group         0x00000000        0xc ./src/sensor_dht11.o
+ .group         0x00000000        0xc ./src/sensor_dht11.o
+ .group         0x00000000        0xc ./src/sensor_dht11.o
+ .group         0x00000000        0xc ./src/sensor_dht11.o
+ .group         0x00000000        0xc ./src/sensor_dht11.o
+ .group         0x00000000        0xc ./src/sensor_dht11.o
+ .group         0x00000000        0xc ./src/sensor_dht11.o
+ .text          0x00000000        0x0 ./src/sensor_dht11.o
+ .data          0x00000000        0x0 ./src/sensor_dht11.o
+ .bss           0x00000000        0x0 ./src/sensor_dht11.o
+ .bss.Humedad_entero
+                0x00000000        0x1 ./src/sensor_dht11.o
+ .bss.Humedad_decimal
+                0x00000000        0x1 ./src/sensor_dht11.o
+ .bss.Temp_entero
+                0x00000000        0x1 ./src/sensor_dht11.o
+ .bss.Temp_decimal
+                0x00000000        0x1 ./src/sensor_dht11.o
+ .bss.val       0x00000000        0x1 ./src/sensor_dht11.o
+ .bss.terminado
+                0x00000000        0x1 ./src/sensor_dht11.o
+ .bss.error     0x00000000        0x1 ./src/sensor_dht11.o
+ .data.suiche   0x00000000        0x1 ./src/sensor_dht11.o
+ .text.leer     0x00000000       0x14 ./src/sensor_dht11.o
+ .text.levantar
+                0x00000000       0x14 ./src/sensor_dht11.o
+ .text.bajar    0x00000000       0x14 ./src/sensor_dht11.o
+ .text.transmision
+                0x00000000       0x34 ./src/sensor_dht11.o
+ .text.recepcion
+                0x00000000       0x1c ./src/sensor_dht11.o
+ .text.inicializar_sensor
+                0x00000000       0x20 ./src/sensor_dht11.o
+ .text.driver_sensor
+                0x00000000      0x27c ./src/sensor_dht11.o
+ .text.mde_recepcion
+                0x00000000       0xb8 ./src/sensor_dht11.o
+ .rodata.mde_recepcion
+                0x00000000       0x14 ./src/sensor_dht11.o
+ .text.partes   0x00000000      0x208 ./src/sensor_dht11.o
+ .rodata.partes
+                0x00000000       0x18 ./src/sensor_dht11.o
+ .text.temp_entero
+                0x00000000       0x14 ./src/sensor_dht11.o
+ .text.temp_decimal
+                0x00000000       0x14 ./src/sensor_dht11.o
+ .text.humedad_entero
+                0x00000000       0x14 ./src/sensor_dht11.o
+ .text.humedad_decimal
+                0x00000000       0x14 ./src/sensor_dht11.o
+ .bss.est.5     0x00000000        0x1 ./src/sensor_dht11.o
+ .bss.cambio.4  0x00000000        0x1 ./src/sensor_dht11.o
+ .data.est.3    0x00000000        0x1 ./src/sensor_dht11.o
+ .bss.bits.2    0x00000000        0x1 ./src/sensor_dht11.o
+ .bss.comienzo.1
+                0x00000000        0x1 ./src/sensor_dht11.o
+ .bss.cambio.0  0x00000000        0x1 ./src/sensor_dht11.o
+ .debug_info    0x00000000      0x41f ./src/sensor_dht11.o
+ .debug_abbrev  0x00000000      0x1a8 ./src/sensor_dht11.o
+ .debug_aranges
+                0x00000000       0x80 ./src/sensor_dht11.o
+ .debug_ranges  0x00000000       0x70 ./src/sensor_dht11.o
+ .debug_macro   0x00000000       0xc3 ./src/sensor_dht11.o
+ .debug_macro   0x00000000      0xa66 ./src/sensor_dht11.o
+ .debug_macro   0x00000000      0x320 ./src/sensor_dht11.o
+ .debug_macro   0x00000000       0x3a ./src/sensor_dht11.o
+ .debug_macro   0x00000000       0xee ./src/sensor_dht11.o
+ .debug_macro   0x00000000       0x76 ./src/sensor_dht11.o
+ .debug_macro   0x00000000      0x13f ./src/sensor_dht11.o
+ .debug_macro   0x00000000       0x88 ./src/sensor_dht11.o
+ .debug_macro   0x00000000       0x82 ./src/sensor_dht11.o
+ .debug_macro   0x00000000       0x46 ./src/sensor_dht11.o
+ .debug_macro   0x00000000       0x2e ./src/sensor_dht11.o
+ .debug_macro   0x00000000       0x4c ./src/sensor_dht11.o
+ .debug_macro   0x00000000       0x4c ./src/sensor_dht11.o
+ .debug_macro   0x00000000       0x70 ./src/sensor_dht11.o
+ .debug_macro   0x00000000       0x40 ./src/sensor_dht11.o
+ .debug_macro   0x00000000       0x28 ./src/sensor_dht11.o
+ .debug_line    0x00000000      0x507 ./src/sensor_dht11.o
+ .debug_str     0x00000000     0x521a ./src/sensor_dht11.o
+ .comment       0x00000000       0x4a ./src/sensor_dht11.o
+ .debug_frame   0x00000000      0x188 ./src/sensor_dht11.o
+ .ARM.attributes
+                0x00000000       0x2c ./src/sensor_dht11.o
+ .group         0x00000000        0xc ./src/teklado.o
+ .group         0x00000000        0xc ./src/teklado.o
+ .group         0x00000000        0xc ./src/teklado.o
+ .group         0x00000000        0xc ./src/teklado.o
+ .group         0x00000000        0xc ./src/teklado.o
+ .group         0x00000000        0xc ./src/teklado.o
+ .group         0x00000000        0xc ./src/teklado.o
+ .group         0x00000000        0xc ./src/teklado.o
+ .group         0x00000000        0xc ./src/teklado.o
+ .group         0x00000000        0xc ./src/teklado.o
+ .group         0x00000000        0xc ./src/teklado.o
+ .group         0x00000000        0xc ./src/teklado.o
+ .group         0x00000000        0xc ./src/teklado.o
+ .group         0x00000000        0xc ./src/teklado.o
+ .group         0x00000000        0xc ./src/teklado.o
+ .text          0x00000000        0x0 ./src/teklado.o
+ .data          0x00000000        0x0 ./src/teklado.o
+ .bss           0x00000000        0x0 ./src/teklado.o
+ .debug_macro   0x00000000      0xa66 ./src/teklado.o
+ .debug_macro   0x00000000      0x320 ./src/teklado.o
+ .debug_macro   0x00000000       0x3a ./src/teklado.o
+ .debug_macro   0x00000000       0xee ./src/teklado.o
+ .debug_macro   0x00000000       0x76 ./src/teklado.o
+ .debug_macro   0x00000000      0x13f ./src/teklado.o
+ .debug_macro   0x00000000       0x88 ./src/teklado.o
+ .debug_macro   0x00000000       0x82 ./src/teklado.o
+ .debug_macro   0x00000000       0x46 ./src/teklado.o
+ .debug_macro   0x00000000       0x2e ./src/teklado.o
+ .debug_macro   0x00000000       0x4c ./src/teklado.o
+ .debug_macro   0x00000000       0x4c ./src/teklado.o
+ .debug_macro   0x00000000       0x70 ./src/teklado.o
+ .debug_macro   0x00000000       0x40 ./src/teklado.o
+ .debug_macro   0x00000000       0x28 ./src/teklado.o
+ .group         0x00000000        0xc ./src/timers.o
+ .group         0x00000000        0xc ./src/timers.o
+ .group         0x00000000        0xc ./src/timers.o
+ .group         0x00000000        0xc ./src/timers.o
+ .group         0x00000000        0xc ./src/timers.o
+ .group         0x00000000        0xc ./src/timers.o
+ .group         0x00000000        0xc ./src/timers.o
+ .group         0x00000000        0xc ./src/timers.o
+ .group         0x00000000        0xc ./src/timers.o
+ .group         0x00000000        0xc ./src/timers.o
+ .group         0x00000000        0xc ./src/timers.o
+ .group         0x00000000        0xc ./src/timers.o
+ .group         0x00000000        0xc ./src/timers.o
+ .group         0x00000000        0xc ./src/timers.o
+ .group         0x00000000        0xc ./src/timers.o
+ .text          0x00000000        0x0 ./src/timers.o
+ .data          0x00000000        0x0 ./src/timers.o
+ .bss           0x00000000        0x0 ./src/timers.o
+ .bss.TMR_handler
+                0x00000000       0x5c ./src/timers.o
+ .bss.timer_flag
+                0x00000000        0x1 ./src/timers.o
+ .text.TimerTime
+                0x00000000       0x24 ./src/timers.o
+ .text.TimerEvent
+                0x00000000       0x94 ./src/timers.o
+ .text.TimerStart
+                0x00000000       0x74 ./src/timers.o
+ .text.TimerStop
+                0x00000000       0x40 ./src/timers.o
+ .text.StandByTimer
+                0x00000000       0x64 ./src/timers.o
+ .text.SetTimer
+                0x00000000       0x38 ./src/timers.o
+ .text.timer_on
+                0x00000000       0x24 ./src/timers.o
+ .text.timer_handler
+                0x00000000       0x14 ./src/timers.o
+ .debug_macro   0x00000000      0xa66 ./src/timers.o
+ .debug_macro   0x00000000      0x320 ./src/timers.o
+ .debug_macro   0x00000000       0x3a ./src/timers.o
+ .debug_macro   0x00000000       0xee ./src/timers.o
+ .debug_macro   0x00000000       0x76 ./src/timers.o
+ .debug_macro   0x00000000      0x13f ./src/timers.o
+ .debug_macro   0x00000000       0x88 ./src/timers.o
+ .debug_macro   0x00000000       0x82 ./src/timers.o
+ .debug_macro   0x00000000       0x46 ./src/timers.o
+ .debug_macro   0x00000000       0x2e ./src/timers.o
+ .debug_macro   0x00000000       0x4c ./src/timers.o
+ .debug_macro   0x00000000       0x4c ./src/timers.o
+ .debug_macro   0x00000000       0x70 ./src/timers.o
+ .debug_macro   0x00000000       0x40 ./src/timers.o
+ .debug_macro   0x00000000       0x28 ./src/timers.o
+ .group         0x00000000        0xc ./src/uart.o
+ .group         0x00000000        0xc ./src/uart.o
+ .group         0x00000000        0xc ./src/uart.o
+ .group         0x00000000        0xc ./src/uart.o
+ .group         0x00000000        0xc ./src/uart.o
+ .group         0x00000000        0xc ./src/uart.o
+ .group         0x00000000        0xc ./src/uart.o
+ .group         0x00000000        0xc ./src/uart.o
+ .group         0x00000000        0xc ./src/uart.o
+ .group         0x00000000        0xc ./src/uart.o
+ .group         0x00000000        0xc ./src/uart.o
+ .group         0x00000000        0xc ./src/uart.o
+ .group         0x00000000        0xc ./src/uart.o
+ .group         0x00000000        0xc ./src/uart.o
+ .group         0x00000000        0xc ./src/uart.o
+ .text          0x00000000        0x0 ./src/uart.o
+ .data          0x00000000        0x0 ./src/uart.o
+ .bss           0x00000000        0x0 ./src/uart.o
+ .bss.txStart   0x00000000        0x1 ./src/uart.o
+ .bss.rx_out    0x00000000        0x1 ./src/uart.o
+ .text.Inicializar_UART0
+                0x00000000       0x74 ./src/uart.o
+ .text.pushtTx  0x00000000       0x70 ./src/uart.o
+ .text.popRx    0x00000000       0x6c ./src/uart.o
+ .text.Transmitir
+                0x00000000       0x5c ./src/uart.o
+ .debug_macro   0x00000000      0xa66 ./src/uart.o
+ .debug_macro   0x00000000      0x320 ./src/uart.o
+ .debug_macro   0x00000000       0x3a ./src/uart.o
+ .debug_macro   0x00000000       0xee ./src/uart.o
+ .debug_macro   0x00000000       0x76 ./src/uart.o
+ .debug_macro   0x00000000      0x13f ./src/uart.o
+ .debug_macro   0x00000000       0x88 ./src/uart.o
+ .debug_macro   0x00000000       0x82 ./src/uart.o
+ .debug_macro   0x00000000       0x46 ./src/uart.o
+ .debug_macro   0x00000000       0x2e ./src/uart.o
+ .debug_macro   0x00000000       0x4c ./src/uart.o
+ .debug_macro   0x00000000       0x4c ./src/uart.o
+ .debug_macro   0x00000000       0x70 ./src/uart.o
+ .debug_macro   0x00000000       0x40 ./src/uart.o
+ .debug_macro   0x00000000       0x28 ./src/uart.o
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash64         0x00000000         0x00010000         xr
+RamLoc16         0x10000000         0x00004000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/CounterTimer.o
+LOAD ./src/Inicializacion.o
+LOAD ./src/LPC845_GPIO_Dr.o
+LOAD ./src/SysTick.o
+LOAD ./src/aeabi_romdiv_patch.o
+LOAD ./src/cr_startup_lpc84x.o
+LOAD ./src/crp.o
+LOAD ./src/display.o
+LOAD ./src/display_lcd.o
+LOAD ./src/funciones.o
+LOAD ./src/lcd.o
+LOAD ./src/maquinas.o
+LOAD ./src/mtb.o
+LOAD ./src/oscilador.o
+LOAD ./src/propiamente.o
+LOAD ./src/reloj.o
+LOAD ./src/sensor_dht11.o
+LOAD ./src/teklado.o
+LOAD ./src/timers.o
+LOAD ./src/uart.o
+START GROUP
+LOAD c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a
+LOAD c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a
+LOAD c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a
+END GROUP
+                0x00000000                __base_MFlash64 = 0x0
+                0x00000000                __base_Flash = 0x0
+                0x00010000                __top_MFlash64 = 0x10000
+                0x00010000                __top_Flash = 0x10000
+                0x10000000                __base_RamLoc16 = 0x10000000
+                0x10000000                __base_RAM = 0x10000000
+                0x10004000                __top_RamLoc16 = 0x10004000
+                0x10004000                __top_RAM = 0x10004000
+
+.text           0x00000000     0x18bc
+ FILL mask 0xff
+                0x00000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xc0 ./src/cr_startup_lpc84x.o
+                0x00000000                g_pfnVectors
+                0x000000c0                . = ALIGN (0x4)
+                0x000000c0                __section_table_start = .
+                0x000000c0                __data_section_table = .
+                0x000000c0        0x4 LONG 0x18bc LOADADDR (.data)
+                0x000000c4        0x4 LONG 0x10000100 ADDR (.data)
+                0x000000c8        0x4 LONG 0x18 SIZEOF (.data)
+                0x000000cc                __data_section_table_end = .
+                0x000000cc                __bss_section_table = .
+                0x000000cc        0x4 LONG 0x10000118 ADDR (.bss)
+                0x000000d0        0x4 LONG 0x310 SIZEOF (.bss)
+                0x000000d4                __bss_section_table_end = .
+                0x000000d4                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x000000d4      0x144 ./src/cr_startup_lpc84x.o
+                0x000000d4                data_init
+                0x00000116                bss_init
+                0x0000014c                ResetISR
+                0x000001f4                NMI_Handler
+                0x000001fa                HardFault_Handler
+                0x00000200                SVC_Handler
+                0x00000206                PendSV_Handler
+                0x00000212                PININT1_IRQHandler
+                0x00000212                PININT2_IRQHandler
+                0x00000212                MRT_IRQHandler
+                0x00000212                I2C1_IRQHandler
+                0x00000212                UART1_IRQHandler
+                0x00000212                ADC_SEQB_IRQHandler
+                0x00000212                I2C0_IRQHandler
+                0x00000212                SPI1_IRQHandler
+                0x00000212                IntDefaultHandler
+                0x00000212                WKT_IRQHandler
+                0x00000212                I2C2_IRQHandler
+                0x00000212                PININT7_IRQHandler
+                0x00000212                PININT3_IRQHandler
+                0x00000212                UART2_IRQHandler
+                0x00000212                PININT5_IRQHandler
+                0x00000212                PININT4_IRQHandler
+                0x00000212                ADC_THCMP_IRQHandler
+                0x00000212                PININT0_IRQHandler
+                0x00000212                BOD_IRQHandler
+                0x00000212                I2C3_IRQHandler
+                0x00000212                SCT_IRQHandler
+                0x00000212                WDT_IRQHandler
+                0x00000212                ADC_OVR_IRQHandler
+                0x00000212                ADC_SEQA_IRQHandler
+                0x00000212                FAIM_IRQHandler
+                0x00000212                DAC0_IRQHandler
+                0x00000212                PININT6_IRQHandler
+                0x00000212                SPI0_IRQHandler
+                0x00000212                CMP_IRQHandler
+                0x00000212                DMA_IRQHandler
+                0x00000212                FLASH_IRQHandler
+                0x000002fc                . = 0x2fc
+ *fill*         0x00000218       0xe4 ff
+                0x000002fc                PROVIDE (__CRP_WORD_START__ = .)
+ *(.crp)
+ .crp           0x000002fc        0x4 ./src/crp.o
+                0x000002fc                CRP_WORD
+                0x00000300                PROVIDE (__CRP_WORD_END__ = .)
+                0x00000001                ASSERT (! ((__CRP_WORD_START__ == __CRP_WORD_END__)), Linker CRP Enabled, but no CRP_WORD provided within application)
+ *(.text*)
+ .text.inicializar_timer
+                0x00000300       0x4c ./src/CounterTimer.o
+                0x00000300                inicializar_timer
+ .text.timer    0x0000034c       0xc4 ./src/CounterTimer.o
+                0x0000034c                timer
+ .text.CTIMER0_IRQHandler
+                0x00000410       0x3c ./src/CounterTimer.o
+                0x00000410                CTIMER0_IRQHandler
+ .text.habilitar_captura
+                0x0000044c        0xe ./src/CounterTimer.o
+                0x0000044c                habilitar_captura
+ .text.deshabilitar_captura
+                0x0000045a        0xe ./src/CounterTimer.o
+                0x0000045a                deshabilitar_captura
+ .text.habilitar_coicidencia
+                0x00000468       0x1c ./src/CounterTimer.o
+                0x00000468                habilitar_coicidencia
+ .text.deshabilitar_coicidencia
+                0x00000484       0x18 ./src/CounterTimer.o
+                0x00000484                deshabilitar_coicidencia
+ .text.reset_timer
+                0x0000049c       0x34 ./src/CounterTimer.o
+                0x0000049c                reset_timer
+ .text.arrancar
+                0x000004d0       0x20 ./src/CounterTimer.o
+                0x000004d0                arrancar
+ .text.bajar_flag_match0
+                0x000004f0       0x1c ./src/CounterTimer.o
+                0x000004f0                bajar_flag_match0
+ .text.establecer_preescala
+                0x0000050c       0x1c ./src/CounterTimer.o
+                0x0000050c                establecer_preescala
+ .text.cap_int_on
+                0x00000528       0x1c ./src/CounterTimer.o
+                0x00000528                cap_int_on
+ .text.cap_int_off
+                0x00000544       0x18 ./src/CounterTimer.o
+                0x00000544                cap_int_off
+ .text.bajar_flag_cap0
+                0x0000055c       0x1c ./src/CounterTimer.o
+                0x0000055c                bajar_flag_cap0
+ .text.swm_cap_on
+                0x00000578       0x60 ./src/CounterTimer.o
+                0x00000578                swm_cap_on
+ .text.inicializacionGPIO
+                0x000005d8       0x96 ./src/Inicializacion.o
+                0x000005d8                inicializacionGPIO
+ .text.inicializacionDISPLAY
+                0x0000066e       0xb2 ./src/Inicializacion.o
+                0x0000066e                inicializacionDISPLAY
+ .text.inicializacion
+                0x00000720       0x58 ./src/Inicializacion.o
+                0x00000720                inicializacion
+ .text.SetPIN   0x00000778       0x50 ./src/LPC845_GPIO_Dr.o
+                0x00000778                SetPIN
+ .text.TogglePIN
+                0x000007c8       0x2c ./src/LPC845_GPIO_Dr.o
+                0x000007c8                TogglePIN
+ .text.SetDIR   0x000007f4       0x50 ./src/LPC845_GPIO_Dr.o
+                0x000007f4                SetDIR
+ .text.GetPIN   0x00000844       0x36 ./src/LPC845_GPIO_Dr.o
+                0x00000844                GetPIN
+ *fill*         0x0000087a        0x2 ff
+ .text.SetPINMODE_IN
+                0x0000087c       0x38 ./src/LPC845_GPIO_Dr.o
+                0x0000087c                SetPINMODE_IN
+ .text.SetPINMODE_OUT
+                0x000008b4       0x3c ./src/LPC845_GPIO_Dr.o
+                0x000008b4                SetPINMODE_OUT
+ .text.SysTick_Config
+                0x000008f0       0x44 ./src/SysTick.o
+                0x000008f0                SysTick_Config
+ .text.SysTick_Handler
+                0x00000934       0x64 ./src/SysTick.o
+                0x00000934                SysTick_Handler
+ .text.__aeabi_idiv
+                0x00000998       0x10 ./src/aeabi_romdiv_patch.o
+                0x00000998                __aeabi_idivmod
+                0x00000998                __aeabi_idiv
+ .text.__aeabi_uidiv
+                0x000009a8       0x10 ./src/aeabi_romdiv_patch.o
+                0x000009a8                __aeabi_uidivmod
+                0x000009a8                __aeabi_uidiv
+ .text.display  0x000009b8       0xc4 ./src/display.o
+                0x000009b8                display
+ .text.barrido_disp
+                0x00000a7c      0x1b0 ./src/display.o
+                0x00000a7c                barrido_disp
+ .text.inicializar_display_LCD
+                0x00000c2c      0x14c ./src/display_lcd.o
+                0x00000c2c                inicializar_display_LCD
+ .text.comando  0x00000d78       0xc0 ./src/display_lcd.o
+                0x00000d78                comando
+ .text.EscrituraLCD
+                0x00000e38       0x5c ./src/display_lcd.o
+                0x00000e38                EscrituraLCD
+ .text.LCD_Push
+                0x00000e94       0xc8 ./src/display_lcd.o
+                0x00000e94                LCD_Push
+ .text.LCD_Pop  0x00000f5c       0x6c ./src/display_lcd.o
+                0x00000f5c                LCD_Pop
+ .text.display_lcd
+                0x00000fc8       0x98 ./src/display_lcd.o
+                0x00000fc8                display_lcd
+ .text.toggle_verde
+                0x00001060       0x12 ./src/funciones.o
+                0x00001060                toggle_verde
+ .text.verde_on
+                0x00001072       0x14 ./src/funciones.o
+                0x00001072                verde_on
+ *fill*         0x00001086        0x2 ff
+ .text.mde_modulador
+                0x00001088       0xec ./src/maquinas.o
+                0x00001088                mde_modulador
+ .text.mde_oscilador
+                0x00001174       0x94 ./src/maquinas.o
+                0x00001174                mde_oscilador
+ .text.Inic_OSC
+                0x00001208       0xf0 ./src/oscilador.o
+                0x00001208                Inic_OSC
+ .text.main     0x000012f8       0x2c ./src/propiamente.o
+                0x000012f8                main
+ .text.InicializarTeclado
+                0x00001324       0x78 ./src/teklado.o
+                0x00001324                InicializarTeclado
+ .text.TekladoHW
+                0x0000139c       0xf0 ./src/teklado.o
+                0x0000139c                TekladoHW
+ .text.TekladoSW
+                0x0000148c       0xfc ./src/teklado.o
+                0x0000148c                TekladoSW
+ .text.DriverTeklado
+                0x00001588       0x26 ./src/teklado.o
+                0x00001588                DriverTeklado
+ *fill*         0x000015ae        0x2 ff
+ .text.teklado  0x000015b0       0x38 ./src/teklado.o
+                0x000015b0                teklado
+ .text.InicializarTimers
+                0x000015e8       0x70 ./src/timers.o
+                0x000015e8                InicializarTimers
+ .text.AnalizarTimers
+                0x00001658      0x124 ./src/timers.o
+                0x00001658                AnalizarTimers
+ .text.popTx    0x0000177c       0x6c ./src/uart.o
+                0x0000177c                popTx
+ .text.pushRx   0x000017e8       0x50 ./src/uart.o
+                0x000017e8                pushRx
+ .text.UART0_IRQHandler
+                0x00001838       0x54 ./src/uart.o
+                0x00001838                UART0_IRQHandler
+ .text.__weak_main
+                0x0000188c        0x8 c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+                0x0000188c                __weak_main
+                0x0000188c                __main
+ *(.rodata .rodata.* .constdata .constdata.*)
+ .rodata.mde_modulador
+                0x00001894       0x1c ./src/maquinas.o
+ .rodata.main.str1.4
+                0x000018b0        0xb ./src/propiamente.o
+                0x000018bc                . = ALIGN (0x4)
+ *fill*         0x000018bb        0x1 ff
+
+.glue_7         0x000018bc        0x0
+ .glue_7        0x000018bc        0x0 linker stubs
+
+.glue_7t        0x000018bc        0x0
+ .glue_7t       0x000018bc        0x0 linker stubs
+
+.vfp11_veneer   0x000018bc        0x0
+ .vfp11_veneer  0x000018bc        0x0 linker stubs
+
+.v4_bx          0x000018bc        0x0
+ .v4_bx         0x000018bc        0x0 linker stubs
+
+.iplt           0x000018bc        0x0
+ .iplt          0x000018bc        0x0 ./src/CounterTimer.o
+
+.rel.dyn        0x000018bc        0x0
+ .rel.iplt      0x000018bc        0x0 ./src/CounterTimer.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM.exidx      0x000018bc        0x0
+                0x000018bc                __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x000018bc                __exidx_end = .
+                0x000018bc                _etext = .
+
+.mtb_buffer_default
+                0x10000000      0x100
+ *(.mtb*)
+ .mtb.$RAM1     0x10000000      0x100 ./src/mtb.o
+                0x10000000                __mtb_buffer__
+
+.uninit_RESERVED
+                0x10000100        0x0
+                0x10000100                _start_uninit_RESERVED = .
+ *(.bss.$RESERVED*)
+                0x10000100                . = ALIGN (0x4)
+                0x10000100                _end_uninit_RESERVED = .
+
+.data           0x10000100       0x18 load address 0x000018bc
+ FILL mask 0xff
+                0x10000100                _data = .
+                [!provide]                PROVIDE (__start_data_RAM = .)
+                [!provide]                PROVIDE (__start_data_RamLoc16 = .)
+ *(vtable)
+ *(.ramfunc*)
+ *(CodeQuickAccess)
+ *(DataQuickAccess)
+ *(RamFunction)
+ *(.data*)
+ .data.seg      0x10000100        0x2 ./src/SysTick.o
+                0x10000100                seg
+ .data.dec      0x10000102        0x2 ./src/SysTick.o
+                0x10000102                dec
+ .data.delay    0x10000104        0x4 ./src/SysTick.o
+                0x10000104                delay
+ .data.lcd_delay
+                0x10000108        0x2 ./src/SysTick.o
+                0x10000108                lcd_delay
+ .data.r.0      0x1000010a        0x1 ./src/display.o
+ *fill*         0x1000010b        0x1 ff
+ .data.time_config
+                0x1000010c        0x4 ./src/maquinas.o
+                0x1000010c                time_config
+ .data.SystemCoreClock
+                0x10000110        0x4 ./src/oscilador.o
+                0x10000110                SystemCoreClock
+ .data.cont.0   0x10000114        0x2 ./src/teklado.o
+                0x10000118                . = ALIGN (0x4)
+ *fill*         0x10000116        0x2 ff
+                0x10000118                _edata = .
+                [!provide]                PROVIDE (__end_data_RAM = .)
+                [!provide]                PROVIDE (__end_data_RamLoc16 = .)
+
+.igot.plt       0x10000118        0x0 load address 0x000018d4
+ .igot.plt      0x10000118        0x0 ./src/CounterTimer.o
+
+.bss            0x10000118      0x310
+                0x10000118                _bss = .
+                [!provide]                PROVIDE (__start_bss_RAM = .)
+                [!provide]                PROVIDE (__start_bss_RamLoc16 = .)
+ *(.bss*)
+ .bss.match_out
+                0x10000118        0x1 ./src/CounterTimer.o
+                0x10000118                match_out
+ .bss.MODO      0x10000119        0x1 ./src/CounterTimer.o
+                0x10000119                MODO
+ *fill*         0x1000011a        0x2 
+ .bss.cap_out   0x1000011c        0x4 ./src/CounterTimer.o
+                0x1000011c                cap_out
+ .bss.val.0     0x10000120        0x1 ./src/CounterTimer.o
+ *fill*         0x10000121        0x3 
+ .bss.pDivRom_idiv
+                0x10000124        0x4 ./src/cr_startup_lpc84x.o
+                0x10000124                pDivRom_idiv
+ .bss.pDivRom_uidiv
+                0x10000128        0x4 ./src/cr_startup_lpc84x.o
+                0x10000128                pDivRom_uidiv
+ .bss.disp_rojo
+                0x1000012c        0x3 ./src/display.o
+                0x1000012c                disp_rojo
+ *fill*         0x1000012f        0x1 
+ .bss.disp_verde
+                0x10000130        0x3 ./src/display.o
+                0x10000130                disp_verde
+ .bss.nd.1      0x10000133        0x1 ./src/display.o
+ .bss.lcd_buff  0x10000134      0x154 ./src/display_lcd.o
+                0x10000134                lcd_buff
+ .bss.lcd_i_push
+                0x10000288        0x1 ./src/display_lcd.o
+                0x10000288                lcd_i_push
+ .bss.lcd_i_pop
+                0x10000289        0x1 ./src/display_lcd.o
+                0x10000289                lcd_i_pop
+ .bss.est.6     0x1000028a        0x1 ./src/maquinas.o
+ .bss.buffkey   0x1000028b        0x1 ./src/teklado.o
+                0x1000028b                buffkey
+ .bss.est.2     0x1000028c        0x1 ./src/teklado.o
+ .bss.anterior.1
+                0x1000028d        0x1 ./src/teklado.o
+ *fill*         0x1000028e        0x2 
+ .bss.TMR_RUN   0x10000290       0x5c ./src/timers.o
+                0x10000290                TMR_RUN
+ .bss.TMR_events
+                0x100002ec       0x17 ./src/timers.o
+                0x100002ec                TMR_events
+ *fill*         0x10000303        0x1 
+ .bss.TMR_standby
+                0x10000304       0x17 ./src/timers.o
+                0x10000304                TMR_standby
+ *fill*         0x1000031b        0x1 
+ .bss.TMR_base  0x1000031c       0x17 ./src/timers.o
+                0x1000031c                TMR_base
+ *fill*         0x10000333        0x1 
+ .bss.bufferTx  0x10000334       0x78 ./src/uart.o
+                0x10000334                bufferTx
+ .bss.bufferRx  0x100003ac       0x78 ./src/uart.o
+                0x100003ac                bufferRx
+ .bss.rx_in     0x10000424        0x1 ./src/uart.o
+                0x10000424                rx_in
+ .bss.tx_in     0x10000425        0x1 ./src/uart.o
+                0x10000425                tx_in
+ .bss.tx_out    0x10000426        0x1 ./src/uart.o
+                0x10000426                tx_out
+ *(COMMON)
+                0x10000428                . = ALIGN (0x4)
+ *fill*         0x10000427        0x1 
+                0x10000428                _ebss = .
+                [!provide]                PROVIDE (__end_bss_RAM = .)
+                [!provide]                PROVIDE (__end_bss_RamLoc16 = .)
+                [!provide]                PROVIDE (end = .)
+
+.noinit         0x10000428        0x0
+                0x10000428                _noinit = .
+                [!provide]                PROVIDE (__start_noinit_RAM = .)
+                [!provide]                PROVIDE (__start_noinit_RamLoc16 = .)
+ *(.noinit*)
+                0x10000428                . = ALIGN (0x4)
+                0x10000428                _end_noinit = .
+                [!provide]                PROVIDE (__end_noinit_RAM = .)
+                [!provide]                PROVIDE (__end_noinit_RamLoc16 = .)
+                [!provide]                PROVIDE (_pvHeapStart = DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x10004000                PROVIDE (_vStackTop = DEFINED (__user_stack_top)?__user_stack_top:(__top_RamLoc16 - 0x0))
+                0xefffbac3                PROVIDE (__valid_user_code_checksum = (0x0 - (((_vStackTop + (ResetISR + 0x1)) + (DEFINED (NMI_Handler)?NMI_Handler:M0_NMI_Handler + 0x1)) + (DEFINED (HardFault_Handler)?HardFault_Handler:M0_HardFault_Handler + 0x1))))
+                0x00000000                _image_start = LOADADDR (.text)
+                0x000018d4                _image_end = (LOADADDR (.data) + SIZEOF (.data))
+                0x000018d4                _image_size = (_image_end - _image_start)
+OUTPUT(propiamente.axf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x00000000     0x34c8
+ .debug_info    0x00000000      0xa1e ./src/CounterTimer.o
+ .debug_info    0x00000a1e      0x54b ./src/Inicializacion.o
+ .debug_info    0x00000f69      0x3f3 ./src/LPC845_GPIO_Dr.o
+ .debug_info    0x0000135c      0x1ca ./src/SysTick.o
+ .debug_info    0x00001526       0x22 ./src/aeabi_romdiv_patch.o
+ .debug_info    0x00001548      0x262 ./src/cr_startup_lpc84x.o
+ .debug_info    0x000017aa       0x40 ./src/crp.o
+ .debug_info    0x000017ea      0x120 ./src/display.o
+ .debug_info    0x0000190a      0x231 ./src/display_lcd.o
+ .debug_info    0x00001b3b      0x18e ./src/funciones.o
+ .debug_info    0x00001cc9      0x42a ./src/maquinas.o
+ .debug_info    0x000020f3       0x54 ./src/mtb.o
+ .debug_info    0x00002147      0x52d ./src/oscilador.o
+ .debug_info    0x00002674       0x6a ./src/propiamente.o
+ .debug_info    0x000026de      0x170 ./src/teklado.o
+ .debug_info    0x0000284e      0x2f0 ./src/timers.o
+ .debug_info    0x00002b3e      0x98a ./src/uart.o
+
+.debug_abbrev   0x00000000     0x1074
+ .debug_abbrev  0x00000000      0x200 ./src/CounterTimer.o
+ .debug_abbrev  0x00000200       0xe3 ./src/Inicializacion.o
+ .debug_abbrev  0x000002e3      0x156 ./src/LPC845_GPIO_Dr.o
+ .debug_abbrev  0x00000439      0x115 ./src/SysTick.o
+ .debug_abbrev  0x0000054e       0x12 ./src/aeabi_romdiv_patch.o
+ .debug_abbrev  0x00000560      0x135 ./src/cr_startup_lpc84x.o
+ .debug_abbrev  0x00000695       0x38 ./src/crp.o
+ .debug_abbrev  0x000006cd       0xc0 ./src/display.o
+ .debug_abbrev  0x0000078d      0x139 ./src/display_lcd.o
+ .debug_abbrev  0x000008c6       0xac ./src/funciones.o
+ .debug_abbrev  0x00000972      0x171 ./src/maquinas.o
+ .debug_abbrev  0x00000ae3       0x46 ./src/mtb.o
+ .debug_abbrev  0x00000b29       0xe3 ./src/oscilador.o
+ .debug_abbrev  0x00000c0c       0x49 ./src/propiamente.o
+ .debug_abbrev  0x00000c55      0x115 ./src/teklado.o
+ .debug_abbrev  0x00000d6a      0x142 ./src/timers.o
+ .debug_abbrev  0x00000eac      0x1c8 ./src/uart.o
+
+.debug_aranges  0x00000000      0x4a0
+ .debug_aranges
+                0x00000000       0xa0 ./src/CounterTimer.o
+ .debug_aranges
+                0x000000a0       0x30 ./src/Inicializacion.o
+ .debug_aranges
+                0x000000d0       0x48 ./src/LPC845_GPIO_Dr.o
+ .debug_aranges
+                0x00000118       0x28 ./src/SysTick.o
+ .debug_aranges
+                0x00000140       0x28 ./src/aeabi_romdiv_patch.o
+ .debug_aranges
+                0x00000168       0x60 ./src/cr_startup_lpc84x.o
+ .debug_aranges
+                0x000001c8       0x18 ./src/crp.o
+ .debug_aranges
+                0x000001e0       0x28 ./src/display.o
+ .debug_aranges
+                0x00000208       0x48 ./src/display_lcd.o
+ .debug_aranges
+                0x00000250       0x78 ./src/funciones.o
+ .debug_aranges
+                0x000002c8       0x88 ./src/maquinas.o
+ .debug_aranges
+                0x00000350       0x18 ./src/mtb.o
+ .debug_aranges
+                0x00000368       0x20 ./src/oscilador.o
+ .debug_aranges
+                0x00000388       0x20 ./src/propiamente.o
+ .debug_aranges
+                0x000003a8       0x40 ./src/teklado.o
+ .debug_aranges
+                0x000003e8       0x68 ./src/timers.o
+ .debug_aranges
+                0x00000450       0x50 ./src/uart.o
+
+.debug_ranges   0x00000000      0x388
+ .debug_ranges  0x00000000       0x90 ./src/CounterTimer.o
+ .debug_ranges  0x00000090       0x20 ./src/Inicializacion.o
+ .debug_ranges  0x000000b0       0x38 ./src/LPC845_GPIO_Dr.o
+ .debug_ranges  0x000000e8       0x18 ./src/SysTick.o
+ .debug_ranges  0x00000100       0x20 ./src/aeabi_romdiv_patch.o
+ .debug_ranges  0x00000120       0x50 ./src/cr_startup_lpc84x.o
+ .debug_ranges  0x00000170       0x18 ./src/display.o
+ .debug_ranges  0x00000188       0x38 ./src/display_lcd.o
+ .debug_ranges  0x000001c0       0x68 ./src/funciones.o
+ .debug_ranges  0x00000228       0x78 ./src/maquinas.o
+ .debug_ranges  0x000002a0       0x10 ./src/oscilador.o
+ .debug_ranges  0x000002b0       0x10 ./src/propiamente.o
+ .debug_ranges  0x000002c0       0x30 ./src/teklado.o
+ .debug_ranges  0x000002f0       0x58 ./src/timers.o
+ .debug_ranges  0x00000348       0x40 ./src/uart.o
+
+.debug_macro    0x00000000     0x1dd7
+ .debug_macro   0x00000000       0xb7 ./src/CounterTimer.o
+ .debug_macro   0x000000b7      0xa66 ./src/CounterTimer.o
+ .debug_macro   0x00000b1d      0x320 ./src/CounterTimer.o
+ .debug_macro   0x00000e3d       0x3a ./src/CounterTimer.o
+ .debug_macro   0x00000e77       0xee ./src/CounterTimer.o
+ .debug_macro   0x00000f65       0x76 ./src/CounterTimer.o
+ .debug_macro   0x00000fdb      0x13f ./src/CounterTimer.o
+ .debug_macro   0x0000111a       0x88 ./src/CounterTimer.o
+ .debug_macro   0x000011a2       0x82 ./src/CounterTimer.o
+ .debug_macro   0x00001224       0x46 ./src/CounterTimer.o
+ .debug_macro   0x0000126a       0x2e ./src/CounterTimer.o
+ .debug_macro   0x00001298       0x4c ./src/CounterTimer.o
+ .debug_macro   0x000012e4       0x4c ./src/CounterTimer.o
+ .debug_macro   0x00001330       0x70 ./src/CounterTimer.o
+ .debug_macro   0x000013a0       0x40 ./src/CounterTimer.o
+ .debug_macro   0x000013e0       0x28 ./src/CounterTimer.o
+ .debug_macro   0x00001408       0xb7 ./src/Inicializacion.o
+ .debug_macro   0x000014bf       0xb7 ./src/LPC845_GPIO_Dr.o
+ .debug_macro   0x00001576       0xb7 ./src/SysTick.o
+ .debug_macro   0x0000162d       0x23 ./src/cr_startup_lpc84x.o
+ .debug_macro   0x00001650       0x1a ./src/crp.o
+ .debug_macro   0x0000166a       0x34 ./src/crp.o
+ .debug_macro   0x0000169e       0xb7 ./src/display.o
+ .debug_macro   0x00001755       0xb7 ./src/display_lcd.o
+ .debug_macro   0x0000180c       0xb7 ./src/funciones.o
+ .debug_macro   0x000018c3       0xb7 ./src/maquinas.o
+ .debug_macro   0x0000197a       0x29 ./src/mtb.o
+ .debug_macro   0x000019a3       0x82 ./src/mtb.o
+ .debug_macro   0x00001a25       0x10 ./src/mtb.o
+ .debug_macro   0x00001a35       0xbd ./src/oscilador.o
+ .debug_macro   0x00001af2       0xc0 ./src/propiamente.o
+ .debug_macro   0x00001bb2       0xb7 ./src/teklado.o
+ .debug_macro   0x00001c69       0xb7 ./src/timers.o
+ .debug_macro   0x00001d20       0xb7 ./src/uart.o
+
+.debug_line     0x00000000     0x277f
+ .debug_line    0x00000000      0x397 ./src/CounterTimer.o
+ .debug_line    0x00000397      0x1f7 ./src/Inicializacion.o
+ .debug_line    0x0000058e      0x285 ./src/LPC845_GPIO_Dr.o
+ .debug_line    0x00000813      0x1ee ./src/SysTick.o
+ .debug_line    0x00000a01       0x65 ./src/aeabi_romdiv_patch.o
+ .debug_line    0x00000a66      0x14d ./src/cr_startup_lpc84x.o
+ .debug_line    0x00000bb3       0xb1 ./src/crp.o
+ .debug_line    0x00000c64      0x29e ./src/display.o
+ .debug_line    0x00000f02      0x305 ./src/display_lcd.o
+ .debug_line    0x00001207      0x295 ./src/funciones.o
+ .debug_line    0x0000149c      0x4b7 ./src/maquinas.o
+ .debug_line    0x00001953       0xce ./src/mtb.o
+ .debug_line    0x00001a21      0x1bb ./src/oscilador.o
+ .debug_line    0x00001bdc      0x237 ./src/propiamente.o
+ .debug_line    0x00001e13      0x2cc ./src/teklado.o
+ .debug_line    0x000020df      0x3d2 ./src/timers.o
+ .debug_line    0x000024b1      0x2ce ./src/uart.o
+
+.debug_str      0x00000000     0x6407
+ .debug_str     0x00000000     0x556e ./src/CounterTimer.o
+                               0x5605 (size before relaxing)
+ .debug_str     0x0000556e       0x60 ./src/Inicializacion.o
+                               0x53e3 (size before relaxing)
+ .debug_str     0x000055ce       0xaf ./src/LPC845_GPIO_Dr.o
+                               0x51bd (size before relaxing)
+ .debug_str     0x0000567d       0x6c ./src/SysTick.o
+                               0x5147 (size before relaxing)
+ .debug_str     0x000056e9       0x2a ./src/aeabi_romdiv_patch.o
+                                 0x70 (size before relaxing)
+ .debug_str     0x00005713      0x1be ./src/cr_startup_lpc84x.o
+                               0x2e2d (size before relaxing)
+ .debug_str     0x000058d1       0xe9 ./src/crp.o
+                               0x2d42 (size before relaxing)
+ .debug_str     0x000059ba       0x41 ./src/display.o
+                               0x50db (size before relaxing)
+ .debug_str     0x000059fb       0x9e ./src/display_lcd.o
+                               0x5159 (size before relaxing)
+ .debug_str     0x00005a99       0x88 ./src/funciones.o
+                               0x511c (size before relaxing)
+ .debug_str     0x00005b21      0x140 ./src/maquinas.o
+                               0x520d (size before relaxing)
+ .debug_str     0x00005c61      0x519 ./src/mtb.o
+                               0x3177 (size before relaxing)
+ .debug_str     0x0000617a       0x47 ./src/oscilador.o
+                               0x53da (size before relaxing)
+ .debug_str     0x000061c1       0x1a ./src/propiamente.o
+                               0x54e6 (size before relaxing)
+ .debug_str     0x000061db       0x72 ./src/teklado.o
+                               0x510c (size before relaxing)
+ .debug_str     0x0000624d       0xe2 ./src/timers.o
+                               0x5186 (size before relaxing)
+ .debug_str     0x0000632f       0xd8 ./src/uart.o
+                               0x5571 (size before relaxing)
+
+.comment        0x00000000       0x49
+ .comment       0x00000000       0x49 ./src/CounterTimer.o
+                                 0x4a (size before relaxing)
+ .comment       0x00000049       0x4a ./src/Inicializacion.o
+ .comment       0x00000049       0x4a ./src/LPC845_GPIO_Dr.o
+ .comment       0x00000049       0x4a ./src/SysTick.o
+ .comment       0x00000049       0x4a ./src/cr_startup_lpc84x.o
+ .comment       0x00000049       0x4a ./src/crp.o
+ .comment       0x00000049       0x4a ./src/display.o
+ .comment       0x00000049       0x4a ./src/display_lcd.o
+ .comment       0x00000049       0x4a ./src/funciones.o
+ .comment       0x00000049       0x4a ./src/maquinas.o
+ .comment       0x00000049       0x4a ./src/mtb.o
+ .comment       0x00000049       0x4a ./src/oscilador.o
+ .comment       0x00000049       0x4a ./src/propiamente.o
+ .comment       0x00000049       0x4a ./src/teklado.o
+ .comment       0x00000049       0x4a ./src/timers.o
+ .comment       0x00000049       0x4a ./src/uart.o
+ .comment       0x00000049       0x4a c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+
+.ARM.attributes
+                0x00000000       0x2a
+ .ARM.attributes
+                0x00000000       0x2c ./src/CounterTimer.o
+ .ARM.attributes
+                0x0000002c       0x2c ./src/Inicializacion.o
+ .ARM.attributes
+                0x00000058       0x2c ./src/LPC845_GPIO_Dr.o
+ .ARM.attributes
+                0x00000084       0x2c ./src/SysTick.o
+ .ARM.attributes
+                0x000000b0       0x1c ./src/aeabi_romdiv_patch.o
+ .ARM.attributes
+                0x000000cc       0x2c ./src/cr_startup_lpc84x.o
+ .ARM.attributes
+                0x000000f8       0x2c ./src/crp.o
+ .ARM.attributes
+                0x00000124       0x2c ./src/display.o
+ .ARM.attributes
+                0x00000150       0x2c ./src/display_lcd.o
+ .ARM.attributes
+                0x0000017c       0x2c ./src/funciones.o
+ .ARM.attributes
+                0x000001a8       0x2c ./src/maquinas.o
+ .ARM.attributes
+                0x000001d4       0x2c ./src/mtb.o
+ .ARM.attributes
+                0x00000200       0x2c ./src/oscilador.o
+ .ARM.attributes
+                0x0000022c       0x2c ./src/propiamente.o
+ .ARM.attributes
+                0x00000258       0x2c ./src/teklado.o
+ .ARM.attributes
+                0x00000284       0x2c ./src/timers.o
+ .ARM.attributes
+                0x000002b0       0x2c ./src/uart.o
+ .ARM.attributes
+                0x000002dc       0x2c c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+
+.debug_frame    0x00000000      0xbf8
+ .debug_frame   0x00000000      0x1f8 ./src/CounterTimer.o
+ .debug_frame   0x000001f8       0x64 ./src/Inicializacion.o
+ .debug_frame   0x0000025c       0xd0 ./src/LPC845_GPIO_Dr.o
+ .debug_frame   0x0000032c       0x4c ./src/SysTick.o
+ .debug_frame   0x00000378      0x118 ./src/cr_startup_lpc84x.o
+ .debug_frame   0x00000490       0x4c ./src/display.o
+ .debug_frame   0x000004dc       0xd0 ./src/display_lcd.o
+ .debug_frame   0x000005ac      0x168 ./src/funciones.o
+ .debug_frame   0x00000714      0x1a8 ./src/maquinas.o
+ .debug_frame   0x000008bc       0x2c ./src/oscilador.o
+ .debug_frame   0x000008e8       0x2c ./src/propiamente.o
+ .debug_frame   0x00000914       0xac ./src/teklado.o
+ .debug_frame   0x000009c0      0x14c ./src/timers.o
+ .debug_frame   0x00000b0c       0xec ./src/uart.o
+
+Cross Reference Table
+
+Symbol                                            File
+ADC_OVR_IRQHandler                                ./src/cr_startup_lpc84x.o
+ADC_SEQA_IRQHandler                               ./src/cr_startup_lpc84x.o
+ADC_SEQB_IRQHandler                               ./src/cr_startup_lpc84x.o
+ADC_THCMP_IRQHandler                              ./src/cr_startup_lpc84x.o
+AnalizarTimers                                    ./src/timers.o
+                                                  ./src/SysTick.o
+BOD_IRQHandler                                    ./src/cr_startup_lpc84x.o
+CMP_IRQHandler                                    ./src/cr_startup_lpc84x.o
+CRP_WORD                                          ./src/crp.o
+CTIMER0_IRQHandler                                ./src/CounterTimer.o
+DAC0_IRQHandler                                   ./src/cr_startup_lpc84x.o
+DMA_IRQHandler                                    ./src/cr_startup_lpc84x.o
+DriverTeklado                                     ./src/teklado.o
+                                                  ./src/SysTick.o
+EscrituraLCD                                      ./src/display_lcd.o
+                                                  ./src/SysTick.o
+FAIM_IRQHandler                                   ./src/cr_startup_lpc84x.o
+FLASH_IRQHandler                                  ./src/cr_startup_lpc84x.o
+GetPIN                                            ./src/LPC845_GPIO_Dr.o
+                                                  ./src/teklado.o
+                                                  ./src/sensor_dht11.o
+                                                  ./src/funciones.o
+HardFault_Handler                                 ./src/cr_startup_lpc84x.o
+Humedad_decimal                                   ./src/sensor_dht11.o
+Humedad_entero                                    ./src/sensor_dht11.o
+I2C0_IRQHandler                                   ./src/cr_startup_lpc84x.o
+I2C1_IRQHandler                                   ./src/cr_startup_lpc84x.o
+I2C2_IRQHandler                                   ./src/cr_startup_lpc84x.o
+I2C3_IRQHandler                                   ./src/cr_startup_lpc84x.o
+Inic_OSC                                          ./src/oscilador.o
+                                                  ./src/Inicializacion.o
+InicializarTeclado                                ./src/teklado.o
+                                                  ./src/Inicializacion.o
+InicializarTimers                                 ./src/timers.o
+                                                  ./src/Inicializacion.o
+Inicializar_UART0                                 ./src/uart.o
+IntDefaultHandler                                 ./src/cr_startup_lpc84x.o
+LCD_Pop                                           ./src/display_lcd.o
+LCD_Push                                          ./src/display_lcd.o
+MODO                                              ./src/CounterTimer.o
+MRT_IRQHandler                                    ./src/cr_startup_lpc84x.o
+NMI_Handler                                       ./src/cr_startup_lpc84x.o
+PININT0_IRQHandler                                ./src/cr_startup_lpc84x.o
+PININT1_IRQHandler                                ./src/cr_startup_lpc84x.o
+PININT2_IRQHandler                                ./src/cr_startup_lpc84x.o
+PININT3_IRQHandler                                ./src/cr_startup_lpc84x.o
+PININT4_IRQHandler                                ./src/cr_startup_lpc84x.o
+PININT5_IRQHandler                                ./src/cr_startup_lpc84x.o
+PININT6_IRQHandler                                ./src/cr_startup_lpc84x.o
+PININT7_IRQHandler                                ./src/cr_startup_lpc84x.o
+PendSV_Handler                                    ./src/cr_startup_lpc84x.o
+ResetISR                                          ./src/cr_startup_lpc84x.o
+SCT_IRQHandler                                    ./src/cr_startup_lpc84x.o
+SPI0_IRQHandler                                   ./src/cr_startup_lpc84x.o
+SPI1_IRQHandler                                   ./src/cr_startup_lpc84x.o
+SVC_Handler                                       ./src/cr_startup_lpc84x.o
+SetDIR                                            ./src/LPC845_GPIO_Dr.o
+                                                  ./src/teklado.o
+                                                  ./src/sensor_dht11.o
+                                                  ./src/maquinas.o
+                                                  ./src/display_lcd.o
+                                                  ./src/Inicializacion.o
+SetPIN                                            ./src/LPC845_GPIO_Dr.o
+                                                  ./src/teklado.o
+                                                  ./src/sensor_dht11.o
+                                                  ./src/maquinas.o
+                                                  ./src/funciones.o
+                                                  ./src/display_lcd.o
+                                                  ./src/display.o
+                                                  ./src/Inicializacion.o
+SetPINMODE_IN                                     ./src/LPC845_GPIO_Dr.o
+                                                  ./src/teklado.o
+                                                  ./src/sensor_dht11.o
+SetPINMODE_OUT                                    ./src/LPC845_GPIO_Dr.o
+                                                  ./src/teklado.o
+                                                  ./src/sensor_dht11.o
+                                                  ./src/maquinas.o
+                                                  ./src/display_lcd.o
+                                                  ./src/Inicializacion.o
+SetTimer                                          ./src/timers.o
+StandByTimer                                      ./src/timers.o
+SysTick_Config                                    ./src/SysTick.o
+                                                  ./src/Inicializacion.o
+SysTick_Handler                                   ./src/SysTick.o
+SystemCoreClock                                   ./src/oscilador.o
+                                                  ./src/Inicializacion.o
+TMR_RUN                                           ./src/timers.o
+TMR_base                                          ./src/timers.o
+TMR_events                                        ./src/timers.o
+TMR_handler                                       ./src/timers.o
+TMR_standby                                       ./src/timers.o
+TekladoHW                                         ./src/teklado.o
+TekladoSW                                         ./src/teklado.o
+Temp_decimal                                      ./src/sensor_dht11.o
+Temp_entero                                       ./src/sensor_dht11.o
+TimerEvent                                        ./src/timers.o
+                                                  ./src/sensor_dht11.o
+TimerStart                                        ./src/timers.o
+                                                  ./src/maquinas.o
+TimerStop                                         ./src/timers.o
+TimerTime                                         ./src/timers.o
+TogglePIN                                         ./src/LPC845_GPIO_Dr.o
+                                                  ./src/funciones.o
+Transmitir                                        ./src/uart.o
+UART0_IRQHandler                                  ./src/uart.o
+                                                  ./src/cr_startup_lpc84x.o
+UART1_IRQHandler                                  ./src/cr_startup_lpc84x.o
+UART2_IRQHandler                                  ./src/cr_startup_lpc84x.o
+WDT_IRQHandler                                    ./src/cr_startup_lpc84x.o
+WKT_IRQHandler                                    ./src/cr_startup_lpc84x.o
+__aeabi_idiv                                      ./src/aeabi_romdiv_patch.o
+__aeabi_idivmod                                   ./src/aeabi_romdiv_patch.o
+                                                  ./src/display_lcd.o
+__aeabi_uidiv                                     ./src/aeabi_romdiv_patch.o
+                                                  ./src/reloj.o
+                                                  ./src/display.o
+                                                  ./src/Inicializacion.o
+__aeabi_uidivmod                                  ./src/aeabi_romdiv_patch.o
+                                                  ./src/uart.o
+                                                  ./src/reloj.o
+                                                  ./src/maquinas.o
+                                                  ./src/display.o
+                                                  ./src/SysTick.o
+__bss_section_table_end                           ./src/cr_startup_lpc84x.o
+__data_section_table                              ./src/cr_startup_lpc84x.o
+__data_section_table_end                          ./src/cr_startup_lpc84x.o
+__main                                            c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+                                                  ./src/cr_startup_lpc84x.o
+__mtb_buffer__                                    ./src/mtb.o
+__valid_user_code_checksum                        ./src/cr_startup_lpc84x.o
+__weak_main                                       c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+_vStackTop                                        ./src/cr_startup_lpc84x.o
+arrancar                                          ./src/CounterTimer.o
+azul_off                                          ./src/funciones.o
+                                                  ./src/reloj.o
+                                                  ./src/maquinas.o
+azul_on                                           ./src/funciones.o
+                                                  ./src/reloj.o
+                                                  ./src/maquinas.o
+bajar                                             ./src/sensor_dht11.o
+                                                  ./src/maquinas.o
+bajar_flag_cap0                                   ./src/CounterTimer.o
+bajar_flag_match0                                 ./src/CounterTimer.o
+barrido_disp                                      ./src/display.o
+                                                  ./src/SysTick.o
+boton_usr                                         ./src/funciones.o
+bss_init                                          ./src/cr_startup_lpc84x.o
+bufferRx                                          ./src/uart.o
+bufferTx                                          ./src/uart.o
+buffkey                                           ./src/teklado.o
+buzzer_off                                        ./src/funciones.o
+buzzer_on                                         ./src/funciones.o
+cap_int_off                                       ./src/CounterTimer.o
+cap_int_on                                        ./src/CounterTimer.o
+cap_out                                           ./src/CounterTimer.o
+                                                  ./src/sensor_dht11.o
+                                                  ./src/reloj.o
+                                                  ./src/maquinas.o
+cero1                                             ./src/reloj.o
+cero2                                             ./src/reloj.o
+comando                                           ./src/display_lcd.o
+data_init                                         ./src/cr_startup_lpc84x.o
+dec                                               ./src/SysTick.o
+                                                  ./src/timers.o
+delay                                             ./src/SysTick.o
+deshabilitar_captura                              ./src/CounterTimer.o
+deshabilitar_coicidencia                          ./src/CounterTimer.o
+disp_rojo                                         ./src/display.o
+disp_verde                                        ./src/display.o
+display                                           ./src/display.o
+                                                  ./src/sensor_dht11.o
+                                                  ./src/reloj.o
+                                                  ./src/propiamente.o
+                                                  ./src/maquinas.o
+display_lcd                                       ./src/display_lcd.o
+                                                  ./src/propiamente.o
+driver_sensor                                     ./src/sensor_dht11.o
+error                                             ./src/sensor_dht11.o
+establecer_preescala                              ./src/CounterTimer.o
+flanco_ascendente                                 ./src/CounterTimer.o
+                                                  ./src/sensor_dht11.o
+flanco_descendente                                ./src/CounterTimer.o
+                                                  ./src/sensor_dht11.o
+                                                  ./src/reloj.o
+                                                  ./src/maquinas.o
+funcion_simple                                    ./src/reloj.o
+g_pfnVectors                                      ./src/cr_startup_lpc84x.o
+habilitar_captura                                 ./src/CounterTimer.o
+habilitar_coicidencia                             ./src/CounterTimer.o
+humedad_decimal                                   ./src/sensor_dht11.o
+humedad_entero                                    ./src/sensor_dht11.o
+inicializacion                                    ./src/Inicializacion.o
+                                                  ./src/propiamente.o
+inicializacionDISPLAY                             ./src/Inicializacion.o
+inicializacionGPIO                                ./src/Inicializacion.o
+inicializar_display_LCD                           ./src/display_lcd.o
+                                                  ./src/Inicializacion.o
+inicializar_patas                                 ./src/maquinas.o
+inicializar_sensor                                ./src/sensor_dht11.o
+inicializar_timer                                 ./src/CounterTimer.o
+                                                  ./src/Inicializacion.o
+lcd_buff                                          ./src/display_lcd.o
+lcd_delay                                         ./src/SysTick.o
+                                                  ./src/display_lcd.o
+lcd_i_pop                                         ./src/display_lcd.o
+lcd_i_push                                        ./src/display_lcd.o
+leer                                              ./src/sensor_dht11.o
+levantar                                          ./src/sensor_dht11.o
+                                                  ./src/maquinas.o
+main                                              ./src/propiamente.o
+                                                  c:/nxp/mcuxpressoide_11.7.1_9221/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.7.1.202301190959/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+match_out                                         ./src/CounterTimer.o
+                                                  ./src/sensor_dht11.o
+                                                  ./src/reloj.o
+                                                  ./src/maquinas.o
+                                                  ./src/display_lcd.o
+mde_ledparpadeante_rojo                           ./src/maquinas.o
+                                                  ./src/sensor_dht11.o
+mde_maquina1                                      ./src/maquinas.o
+mde_maquina2                                      ./src/maquinas.o
+mde_maquina3                                      ./src/maquinas.o
+mde_modo                                          ./src/reloj.o
+mde_modulador                                     ./src/maquinas.o
+                                                  ./src/propiamente.o
+mde_oscilador                                     ./src/maquinas.o
+                                                  ./src/propiamente.o
+mde_recepcion                                     ./src/sensor_dht11.o
+mde_reloj                                         ./src/maquinas.o
+mde_tempo_config                                  ./src/reloj.o
+mili_timer                                        ./src/reloj.o
+milis                                             ./src/reloj.o
+min                                               ./src/reloj.o
+modo_CTcron                                       ./src/reloj.o
+modo_CTtem                                        ./src/reloj.o
+modo_crono                                        ./src/reloj.o
+modo_tempo                                        ./src/reloj.o
+pDivRom_idiv                                      ./src/cr_startup_lpc84x.o
+                                                  ./src/aeabi_romdiv_patch.o
+pDivRom_uidiv                                     ./src/cr_startup_lpc84x.o
+                                                  ./src/aeabi_romdiv_patch.o
+partes                                            ./src/sensor_dht11.o
+pin_off                                           ./src/funciones.o
+                                                  ./src/maquinas.o
+pin_on                                            ./src/funciones.o
+                                                  ./src/maquinas.o
+popRx                                             ./src/uart.o
+popTx                                             ./src/uart.o
+pushRx                                            ./src/uart.o
+pushTx                                            ./src/uart.o
+pushtTx                                           ./src/uart.o
+recepcion                                         ./src/sensor_dht11.o
+                                                  ./src/maquinas.o
+reset_timer                                       ./src/CounterTimer.o
+rojo_off                                          ./src/funciones.o
+                                                  ./src/maquinas.o
+rojo_on                                           ./src/funciones.o
+                                                  ./src/maquinas.o
+rx_in                                             ./src/uart.o
+rx_out                                            ./src/uart.o
+salir                                             ./src/reloj.o
+seg                                               ./src/SysTick.o
+                                                  ./src/timers.o
+segg                                              ./src/reloj.o
+suiche                                            ./src/sensor_dht11.o
+swm_cap_on                                        ./src/CounterTimer.o
+teklado                                           ./src/teklado.o
+                                                  ./src/reloj.o
+                                                  ./src/maquinas.o
+temp_decimal                                      ./src/sensor_dht11.o
+temp_entero                                       ./src/sensor_dht11.o
+terminado                                         ./src/sensor_dht11.o
+tiempo                                            ./src/reloj.o
+time_config                                       ./src/maquinas.o
+timer                                             ./src/CounterTimer.o
+                                                  ./src/sensor_dht11.o
+                                                  ./src/reloj.o
+                                                  ./src/maquinas.o
+                                                  ./src/display_lcd.o
+timer_02dec                                       ./src/maquinas.o
+timer_02dec_handler                               ./src/maquinas.o
+timer_02dec_out                                   ./src/maquinas.o
+timer_1dec                                        ./src/maquinas.o
+timer_1dec_handler                                ./src/maquinas.o
+timer_1dec_out                                    ./src/maquinas.o
+timer_1seg                                        ./src/maquinas.o
+timer_1seg_handler                                ./src/maquinas.o
+timer_1seg_out                                    ./src/maquinas.o
+timer_flag                                        ./src/timers.o
+timer_handler                                     ./src/timers.o
+timer_on                                          ./src/timers.o
+toggle_verde                                      ./src/funciones.o
+                                                  ./src/maquinas.o
+transmision                                       ./src/sensor_dht11.o
+                                                  ./src/maquinas.o
+txStart                                           ./src/uart.o
+tx_in                                             ./src/uart.o
+tx_out                                            ./src/uart.o
+unmili_timer                                      ./src/reloj.o
+val                                               ./src/sensor_dht11.o
+verde_off                                         ./src/funciones.o
+                                                  ./src/maquinas.o
+verde_on                                          ./src/funciones.o
+                                                  ./src/maquinas.o

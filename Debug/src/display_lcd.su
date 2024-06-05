@@ -1,0 +1,6 @@
+../src/display_lcd.c:15:6:inicializar_display_LCD	16	static
+../src/display_lcd.c:67:6:comando	24	static
+../src/display_lcd.c:88:6:EscrituraLCD	16	static
+../src/display_lcd.c:104:6:LCD_Push	16	static
+../src/display_lcd.c:119:9:LCD_Pop	16	static
+../src/display_lcd.c:132:6:display_lcd	32	static

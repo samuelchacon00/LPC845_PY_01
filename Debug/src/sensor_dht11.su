@@ -1,0 +1,13 @@
+../src/sensor_dht11.c:27:10:leer	8	static
+../src/sensor_dht11.c:32:6:levantar	8	static
+../src/sensor_dht11.c:37:6:bajar	8	static
+../src/sensor_dht11.c:42:6:transmision	16	static
+../src/sensor_dht11.c:49:6:recepcion	8	static
+../src/sensor_dht11.c:55:6:inicializar_sensor	8	static
+../src/sensor_dht11.c:61:6:driver_sensor	16	static
+../src/sensor_dht11.c:166:6:mde_recepcion	8	static
+../src/sensor_dht11.c:204:9:partes	16	static
+../src/sensor_dht11.c:291:9:temp_entero	8	static
+../src/sensor_dht11.c:296:9:temp_decimal	8	static
+../src/sensor_dht11.c:301:9:humedad_entero	8	static
+../src/sensor_dht11.c:306:9:humedad_decimal	8	static

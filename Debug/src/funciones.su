@@ -1,0 +1,12 @@
+../src/funciones.c:11:6:buzzer_on	8	static
+../src/funciones.c:16:6:buzzer_off	8	static
+../src/funciones.c:21:6:rojo_on	8	static
+../src/funciones.c:26:6:rojo_off	8	static
+../src/funciones.c:31:6:toggle_verde	8	static
+../src/funciones.c:36:6:verde_on	8	static
+../src/funciones.c:41:6:verde_off	8	static
+../src/funciones.c:46:6:azul_on	8	static
+../src/funciones.c:51:6:azul_off	8	static
+../src/funciones.c:56:9:boton_usr	8	static
+../src/funciones.c:61:6:pin_on	16	static
+../src/funciones.c:66:6:pin_off	16	static

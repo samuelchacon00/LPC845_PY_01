@@ -1,0 +1,5 @@
+../src/teklado.c:12:6:InicializarTeclado	8	static
+../src/teklado.c:32:9:TekladoHW	16	static
+../src/teklado.c:67:6:TekladoSW	16	static
+../src/teklado.c:119:6:DriverTeklado	16	static
+../src/teklado.c:127:9:teklado	16	static

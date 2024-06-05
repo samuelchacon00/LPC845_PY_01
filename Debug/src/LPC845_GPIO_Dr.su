@@ -1,0 +1,6 @@
+../src/LPC845_GPIO_Dr.c:21:6:SetPIN	24	static
+../src/LPC845_GPIO_Dr.c:40:6:TogglePIN	16	static
+../src/LPC845_GPIO_Dr.c:55:6:SetDIR	24	static
+../src/LPC845_GPIO_Dr.c:73:10:GetPIN	16	static
+../src/LPC845_GPIO_Dr.c:98:6:SetPINMODE_IN	16	static
+../src/LPC845_GPIO_Dr.c:111:6:SetPINMODE_OUT	16	static

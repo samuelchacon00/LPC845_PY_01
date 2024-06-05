@@ -1,0 +1,10 @@
+../src/timers.c:21:10:TimerTime	16	static
+../src/timers.c:26:6:InicializarTimers	16	static
+../src/timers.c:37:6:AnalizarTimers	16	static
+../src/timers.c:63:6:TimerEvent	16	static
+../src/timers.c:75:6:TimerStart	32	static
+../src/timers.c:83:6:TimerStop	16	static
+../src/timers.c:89:6:StandByTimer	24	static
+../src/timers.c:97:6:SetTimer	16	static
+../src/timers.c:104:6:timer_on	8	static
+../src/timers.c:110:6:timer_handler	8	static

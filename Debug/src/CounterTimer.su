@@ -1,0 +1,17 @@
+../src/CounterTimer.c:14:6:inicializar_timer	8	static
+../src/CounterTimer.c:23:6:timer	32	static
+../src/CounterTimer.c:73:6:CTIMER0_IRQHandler	8	static
+../src/CounterTimer.c:92:6:habilitar_captura	8	static
+../src/CounterTimer.c:97:6:deshabilitar_captura	8	static
+../src/CounterTimer.c:102:6:habilitar_coicidencia	8	static
+../src/CounterTimer.c:106:6:deshabilitar_coicidencia	8	static
+../src/CounterTimer.c:110:6:reset_timer	8	static
+../src/CounterTimer.c:117:6:arrancar	8	static
+../src/CounterTimer.c:122:6:bajar_flag_match0	8	static
+../src/CounterTimer.c:126:6:establecer_preescala	16	static
+../src/CounterTimer.c:130:6:flanco_ascendente	8	static
+../src/CounterTimer.c:134:6:flanco_descendente	8	static
+../src/CounterTimer.c:138:6:cap_int_on	8	static
+../src/CounterTimer.c:142:6:cap_int_off	8	static
+../src/CounterTimer.c:146:6:bajar_flag_cap0	8	static
+../src/CounterTimer.c:150:6:swm_cap_on	24	static

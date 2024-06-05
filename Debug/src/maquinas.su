@@ -1,0 +1,14 @@
+../src/maquinas.c:19:6:inicializar_patas	8	static
+../src/maquinas.c:43:6:mde_maquina1	16	static
+../src/maquinas.c:92:6:mde_maquina2	16	static
+../src/maquinas.c:132:6:mde_maquina3	16	static
+../src/maquinas.c:156:6:mde_modulador	16	static
+../src/maquinas.c:192:6:mde_oscilador	8	static
+../src/maquinas.c:224:6:mde_reloj	8	static
+../src/maquinas.c:266:6:timer_1seg	8	static
+../src/maquinas.c:271:6:timer_1seg_handler	8	static
+../src/maquinas.c:275:6:timer_1dec	8	static
+../src/maquinas.c:280:6:timer_1dec_handler	8	static
+../src/maquinas.c:286:6:mde_ledparpadeante_rojo	8	static
+../src/maquinas.c:317:6:timer_02dec	8	static
+../src/maquinas.c:322:6:timer_02dec_handler	8	static
